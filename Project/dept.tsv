@@ -1,0 +1,12 @@
+Dept	Dept_id	Manager_eid	Manager_start_date
+Philosophy	0	20004	2023-08-23
+religion	1	20002	2023-11-18
+social science	2	20013	2024-02-08
+natural science	3	20012	2023-12-06
+technological science	4	20017	2023-07-11
+art	5	20001	2023-07-29
+language	6	20030	2023-10-12
+literature	7	20005	2023-06-30
+history	8	20003	2023-07-24
+etc	9	20000	2023-08-29
+digital	10	20009	2023-10-26

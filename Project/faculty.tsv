@@ -1,0 +1,1001 @@
+faculty_id	name	fname	fclass	gender	dept_id	dept	bdate	email	phone
+200070000	Michael	Rodriguez	Staff	Male	1	Department of Cyber Security	1975-10-05	michael_75r@ajou.ac.kr	010-2707-7161
+199970001	Kenneth	Nguyen	Professor	Male	0	Department of Software and Computer Engineering	1974-01-27	kenneth_74n@ajou.ac.kr	010-1498-2710
+199270002	Robert	Walker	Professor	Male	4	Department of Applied Artificial Intelligence	1967-12-27	robert_67w@ajou.ac.kr	010-4718-6557
+200070003	Joseph	Heo	Professor	Male	3	Department of Military Digital Convergence	1975-12-02	joseph_75h@ajou.ac.kr	010-4272-5925
+201070004	Kevin	Hernandez	Staff	Male	1	Department of Cyber Security	1985-01-29	kevin_85h@ajou.ac.kr	010-8055-5686
+199070005	Andrew	Sim	Staff	Male	1	Department of Cyber Security	1965-06-15	andrew_65s@ajou.ac.kr	010-9981-0545
+200770006	Minseo	Hong	Staff	Female	2	Department of Digital Media	1982-12-03	minseo_82h@ajou.ac.kr	010-3744-5106
+200870007	Seoyoon	Thomas	Professor	Female	0	Department of Software and Computer Engineering	1983-02-18	seoyoon_83t@ajou.ac.kr	010-3361-0754
+199270008	Edward	Yu	Staff	Male	4	Department of Applied Artificial Intelligence	1967-06-26	edward_67y@ajou.ac.kr	010-5066-8374
+200670009	Kevin	Yu	Professor	Male	3	Department of Military Digital Convergence	1981-06-10	kevin_81y@ajou.ac.kr	010-1712-9225
+199170010	Deborah	Anderson	Staff	Female	4	Department of Applied Artificial Intelligence	1966-07-28	deborah_66a@ajou.ac.kr	010-4932-3372
+200270011	Kimberly	Min	TA	Female	3	Department of Military Digital Convergence	1977-02-05	kimberly_77m@ajou.ac.kr	010-7341-8434
+201070012	Jennifer	Harris	Staff	Female	2	Department of Digital Media	1985-03-04	jennifer_85h@ajou.ac.kr	010-8145-7190
+201870013	Seohyun	Heo	Staff	Female	1	Department of Cyber Security	1993-09-10	seohyun_93h@ajou.ac.kr	010-9820-6972
+200670014	Sarah	Lopez	Staff	Female	3	Department of Military Digital Convergence	1981-06-02	sarah_81l@ajou.ac.kr	010-7756-3603
+199470015	Barbara	Lopez	Professor	Female	2	Department of Digital Media	1969-04-17	barbara_69l@ajou.ac.kr	010-2592-7309
+200270016	Minseo	Han	Staff	Female	4	Department of Applied Artificial Intelligence	1977-01-27	minseo_77h@ajou.ac.kr	010-9278-6316
+200770017	Brian	Song	Staff	Male	0	Department of Software and Computer Engineering	1982-12-18	brian_82s@ajou.ac.kr	010-0032-8536
+199170018	Edward	Moore	Staff	Male	3	Department of Military Digital Convergence	1966-09-25	edward_66m@ajou.ac.kr	010-1782-8627
+199770019	Seoyeon	Ha	Professor	Female	4	Department of Applied Artificial Intelligence	1972-04-06	seoyeon_72h@ajou.ac.kr	010-0728-8111
+199470020	Amanda	Davis	Staff	Female	2	Department of Digital Media	1969-01-13	amanda_69d@ajou.ac.kr	010-4463-3694
+200070021	Amanda	Hall	Professor	Female	3	Department of Military Digital Convergence	1975-03-14	amanda_75h@ajou.ac.kr	010-8409-9720
+201570022	Amanda	Kim	Staff	Female	4	Department of Applied Artificial Intelligence	1990-04-05	amanda_90k@ajou.ac.kr	010-1709-3015
+199170023	Ryan	Han	TA	Male	2	Department of Digital Media	1966-06-08	ryan_66h@ajou.ac.kr	010-9548-1191
+201570024	Amanda	Park	Professor	Female	4	Department of Applied Artificial Intelligence	1990-07-19	amanda_90p@ajou.ac.kr	010-8924-1058
+200570025	Joonseo	Walker	Staff	Male	4	Department of Applied Artificial Intelligence	1980-09-22	joonseo_80w@ajou.ac.kr	010-2451-6120
+199570026	Edward	Hong	Staff	Male	4	Department of Applied Artificial Intelligence	1970-08-15	edward_70h@ajou.ac.kr	010-4395-2935
+201370027	James	Garcia	TA	Male	2	Department of Digital Media	1988-06-09	james_88g@ajou.ac.kr	010-4051-4378
+199370028	Melissa	Bottier	Staff	Female	4	Department of Applied Artificial Intelligence	1968-10-01	melissa_68b@ajou.ac.kr	010-4956-7174
+199670029	Margaret	Song	Professor	Female	4	Department of Applied Artificial Intelligence	1971-02-09	margaret_71s@ajou.ac.kr	010-4672-1596
+200270030	David	Han	Professor	Male	1	Department of Cyber Security	1977-08-17	david_77h@ajou.ac.kr	010-4221-5854
+201170031	Hajoon	Thomas	Professor	Male	0	Department of Software and Computer Engineering	1986-03-10	hajoon_86t@ajou.ac.kr	010-3141-9585
+199770032	Jiwoo	Johnson	Staff	Female	3	Department of Military Digital Convergence	1972-07-14	jiwoo_72j@ajou.ac.kr	010-6425-6771
+201670033	Daniel	Park	Professor	Male	4	Department of Applied Artificial Intelligence	1991-12-02	daniel_91p@ajou.ac.kr	010-3317-3320
+200470034	Haeun	Johnson	TA	Female	0	Department of Software and Computer Engineering	1979-02-20	haeun_79j@ajou.ac.kr	010-3259-1298
+201970035	Betty	Harris	Professor	Female	2	Department of Digital Media	1994-10-20	betty_94h@ajou.ac.kr	010-7687-4889
+199370036	Haeun	Johnson	Professor	Female	2	Department of Digital Media	1968-03-25	haeun_68j@ajou.ac.kr	010-8302-7989
+200470037	Matthew	Jones	Professor	Male	2	Department of Digital Media	1979-09-17	matthew_79j@ajou.ac.kr	010-6946-8044
+200770038	David	Lee	Staff	Male	4	Department of Applied Artificial Intelligence	1982-01-20	david_82l@ajou.ac.kr	010-1537-3730
+199670039	Sharon	Anderson	TA	Female	1	Department of Cyber Security	1971-03-31	sharon_71a@ajou.ac.kr	010-6419-5845
+200670040	Susan	Park	TA	Female	2	Department of Digital Media	1981-06-04	susan_81p@ajou.ac.kr	010-2288-9951
+199170041	Mark	Sim	TA	Male	4	Department of Applied Artificial Intelligence	1966-06-14	mark_66s@ajou.ac.kr	010-7513-2071
+200370042	Andrew	Martinez	Staff	Male	4	Department of Applied Artificial Intelligence	1978-12-12	andrew_78m@ajou.ac.kr	010-5420-1823
+201770043	Daniel	Bacha	Staff	Male	0	Department of Software and Computer Engineering	1992-09-10	daniel_92b@ajou.ac.kr	010-8282-3994
+199470044	James	Lopez	TA	Male	0	Department of Software and Computer Engineering	1969-12-28	james_69l@ajou.ac.kr	010-4869-1339
+200470045	Kenneth	Rho	Staff	Male	1	Department of Cyber Security	1979-04-07	kenneth_79r@ajou.ac.kr	010-5715-5665
+199470046	Amanda	Rodriguez	Professor	Female	1	Department of Cyber Security	1969-04-07	amanda_69r@ajou.ac.kr	010-7436-8296
+200170047	Carol	Hong	Professor	Female	4	Department of Applied Artificial Intelligence	1976-01-30	carol_76h@ajou.ac.kr	010-8096-7935
+199370048	George	Wilson	Professor	Male	1	Department of Cyber Security	1968-01-16	george_68w@ajou.ac.kr	010-0141-3228
+200870049	Joseph	Miller	TA	Male	4	Department of Applied Artificial Intelligence	1983-10-14	joseph_83m@ajou.ac.kr	010-3842-0705
+200970050	Kenneth	Hall	TA	Male	3	Department of Military Digital Convergence	1984-11-30	kenneth_84h@ajou.ac.kr	010-9424-9438
+201270051	Seojoon	Harris	Professor	Male	3	Department of Military Digital Convergence	1987-09-12	seojoon_87h@ajou.ac.kr	010-1848-4668
+200870052	Jia	ClarkLewis	Staff	Female	4	Department of Applied Artificial Intelligence	1983-06-10	jia_83c@ajou.ac.kr	010-8452-6824
+199870053	Daniel	Kang	Staff	Male	4	Department of Applied Artificial Intelligence	1973-02-14	daniel_73k@ajou.ac.kr	010-0996-6002
+199270054	Minjoon	Smith	TA	Male	2	Department of Digital Media	1967-09-02	minjoon_67s@ajou.ac.kr	010-0277-6597
+201270055	Barbara	Bottier	Professor	Female	1	Department of Cyber Security	1987-06-24	barbara_87b@ajou.ac.kr	010-4143-7550
+200470056	Yejoon	Cho	Staff	Male	2	Department of Digital Media	1979-12-11	yejoon_79c@ajou.ac.kr	010-2701-1591
+201170057	Kenneth	Kim	TA	Male	1	Department of Cyber Security	1986-05-28	kenneth_86k@ajou.ac.kr	010-4022-3121
+201970058	Ashley	Heo	Staff	Female	0	Department of Software and Computer Engineering	1994-11-07	ashley_94h@ajou.ac.kr	010-0161-2810
+201070059	Joseph	Yu	Staff	Male	0	Department of Software and Computer Engineering	1985-03-12	joseph_85y@ajou.ac.kr	010-2700-8576
+199370060	Joshua	ClarkLewis	Staff	Male	0	Department of Software and Computer Engineering	1968-07-06	joshua_68c@ajou.ac.kr	010-0307-3763
+201170061	Daniel	Johnson	Staff	Male	1	Department of Cyber Security	1986-11-03	daniel_86j@ajou.ac.kr	010-5391-9505
+201970062	Yejoon	Miller	Staff	Male	2	Department of Digital Media	1994-08-23	yejoon_94m@ajou.ac.kr	010-2691-2420
+201770063	Yoonseo	Park	TA	Female	4	Department of Applied Artificial Intelligence	1992-09-17	yoonseo_92p@ajou.ac.kr	010-3284-4641
+200070064	Seohyun	Heo	TA	Female	4	Department of Applied Artificial Intelligence	1975-11-17	seohyun_75h@ajou.ac.kr	010-9795-8854
+199070065	Susan	Smith	TA	Female	3	Department of Military Digital Convergence	1965-11-14	susan_65s@ajou.ac.kr	010-7185-4460
+201470066	Kenneth	Robinson	TA	Male	4	Department of Applied Artificial Intelligence	1989-07-05	kenneth_89r@ajou.ac.kr	010-8092-2436
+201870067	Amanda	Lee	Professor	Female	1	Department of Cyber Security	1993-01-13	amanda_93l@ajou.ac.kr	010-0827-4534
+201070068	Jennifer	Hong	Professor	Female	2	Department of Digital Media	1985-05-01	jennifer_85h@ajou.ac.kr	010-2104-1933
+199070069	George	Davis	Professor	Male	2	Department of Digital Media	1965-06-04	george_65d@ajou.ac.kr	010-0251-3787
+199370070	Dohyun	Kang	Professor	Male	2	Department of Digital Media	1968-03-18	dohyun_68k@ajou.ac.kr	010-6971-0305
+199170071	Emily	Bacha	Professor	Female	3	Department of Military Digital Convergence	1966-03-10	emily_66b@ajou.ac.kr	010-2976-6772
+201270072	Sua	Jackson	Professor	Female	2	Department of Digital Media	1987-10-14	sua_87j@ajou.ac.kr	010-7740-2271
+200470073	Hajoon	Thompson	TA	Male	0	Department of Software and Computer Engineering	1979-08-18	hajoon_79t@ajou.ac.kr	010-0233-8483
+200870074	Hayoon	Thompson	Professor	Female	1	Department of Cyber Security	1983-12-12	hayoon_83t@ajou.ac.kr	010-8843-3603
+199370075	Laura	Hernandez	TA	Female	1	Department of Cyber Security	1968-06-30	laura_68h@ajou.ac.kr	010-0014-3808
+199070076	Melissa	Thomas	TA	Female	4	Department of Applied Artificial Intelligence	1965-11-30	melissa_65t@ajou.ac.kr	010-7777-1236
+201170077	Sharon	Rho	Professor	Female	3	Department of Military Digital Convergence	1986-10-22	sharon_86r@ajou.ac.kr	010-6405-2060
+199370078	Kenneth	Perez	Staff	Male	3	Department of Military Digital Convergence	1968-12-29	kenneth_68p@ajou.ac.kr	010-1887-2692
+199270079	Siu	Robinson	TA	Male	0	Department of Software and Computer Engineering	1967-11-17	siu_67r@ajou.ac.kr	010-9752-4651
+201770080	Jennifer	Rho	Professor	Female	4	Department of Applied Artificial Intelligence	1992-03-20	jennifer_92r@ajou.ac.kr	010-8949-3382
+201170081	Margaret	Gonzalez	Staff	Female	0	Department of Software and Computer Engineering	1986-06-13	margaret_86g@ajou.ac.kr	010-2122-3127
+201270082	Kevin	Bottier	Professor	Male	3	Department of Military Digital Convergence	1987-02-17	kevin_87b@ajou.ac.kr	010-6689-8126
+200770083	Richard	Lee	Staff	Male	3	Department of Military Digital Convergence	1982-08-04	richard_82l@ajou.ac.kr	010-5487-9074
+200570084	Betty	Thomas	TA	Female	3	Department of Military Digital Convergence	1980-03-09	betty_80t@ajou.ac.kr	010-4562-9179
+201170085	Hayoon	Rho	Professor	Female	4	Department of Applied Artificial Intelligence	1986-12-29	hayoon_86r@ajou.ac.kr	010-7547-3844
+200470086	Seojoon	Nguyen	TA	Male	1	Department of Cyber Security	1979-04-22	seojoon_79n@ajou.ac.kr	010-2026-7934
+199970087	Margaret	Rochette	Staff	Female	2	Department of Digital Media	1974-07-04	margaret_74r@ajou.ac.kr	010-3765-0473
+201070088	Jia	Moore	Staff	Female	2	Department of Digital Media	1985-11-09	jia_85m@ajou.ac.kr	010-2649-6083
+200570089	Anthony	Brown	TA	Male	3	Department of Military Digital Convergence	1980-04-16	anthony_80b@ajou.ac.kr	010-9717-6702
+199070090	Margaret	Ha	Staff	Female	4	Department of Applied Artificial Intelligence	1965-12-25	margaret_65h@ajou.ac.kr	010-6780-4794
+200970091	Jessica	Moore	TA	Female	4	Department of Applied Artificial Intelligence	1984-12-30	jessica_84m@ajou.ac.kr	010-8816-8543
+199970092	Yejoon	Lopez	TA	Male	1	Department of Cyber Security	1974-04-29	yejoon_74l@ajou.ac.kr	010-0336-1148
+201070093	Dohyun	Heo	Professor	Male	4	Department of Applied Artificial Intelligence	1985-01-17	dohyun_85h@ajou.ac.kr	010-0943-7062
+199770094	Brian	Miller	Professor	Male	1	Department of Cyber Security	1972-11-06	brian_72m@ajou.ac.kr	010-2048-5401
+201070095	Stephanie	Bottier	Staff	Female	2	Department of Digital Media	1985-09-23	stephanie_85b@ajou.ac.kr	010-4780-2885
+199370096	Dorothy	Thomas	Staff	Female	2	Department of Digital Media	1968-07-07	dorothy_68t@ajou.ac.kr	010-2302-8366
+199870097	Charles	Park	Staff	Male	0	Department of Software and Computer Engineering	1973-11-22	charles_73p@ajou.ac.kr	010-1997-8641
+199370098	Donald	Martinez	TA	Male	3	Department of Military Digital Convergence	1968-04-24	donald_68m@ajou.ac.kr	010-3676-6581
+200170099	Sarah	Choi	Staff	Female	3	Department of Military Digital Convergence	1976-05-25	sarah_76c@ajou.ac.kr	010-0721-1697
+199370100	Joonwoo	Thomas	Staff	Male	2	Department of Digital Media	1968-02-02	joonwoo_68t@ajou.ac.kr	010-5565-6118
+201070101	Joonwoo	Nguyen	TA	Male	1	Department of Cyber Security	1985-11-07	joonwoo_85n@ajou.ac.kr	010-0872-1022
+199670102	Sharon	Robinson	Staff	Female	0	Department of Software and Computer Engineering	1971-12-20	sharon_71r@ajou.ac.kr	010-7691-3911
+200470103	Ashley	Ha	Staff	Female	2	Department of Digital Media	1979-12-04	ashley_79h@ajou.ac.kr	010-5082-5974
+201170104	Haeun	Harris	Professor	Female	1	Department of Cyber Security	1986-07-31	haeun_86h@ajou.ac.kr	010-3534-7882
+199370105	Mark	Nguyen	TA	Male	0	Department of Software and Computer Engineering	1968-09-22	mark_68n@ajou.ac.kr	010-4013-8774
+199070106	Jeffrey	Garcia	Staff	Male	4	Department of Applied Artificial Intelligence	1965-03-06	jeffrey_65g@ajou.ac.kr	010-6590-7756
+200770107	Joshua	Dereskeviciute	TA	Male	2	Department of Digital Media	1982-06-17	joshua_82d@ajou.ac.kr	010-1248-2855
+201970108	Donna	Kang	Staff	Female	4	Department of Applied Artificial Intelligence	1994-06-22	donna_94k@ajou.ac.kr	010-2070-3622
+201870109	Dorothy	Robinson	Staff	Female	1	Department of Cyber Security	1993-07-09	dorothy_93r@ajou.ac.kr	010-4908-0766
+200770110	Anthony	Han	TA	Male	0	Department of Software and Computer Engineering	1982-07-23	anthony_82h@ajou.ac.kr	010-2732-6064
+201470111	Joonwoo	Taylor	Professor	Male	1	Department of Cyber Security	1989-01-03	joonwoo_89t@ajou.ac.kr	010-5326-7687
+200770112	David	Miller	TA	Male	1	Department of Cyber Security	1982-01-09	david_82m@ajou.ac.kr	010-0889-1152
+200670113	Jeffrey	Lopez	Professor	Male	3	Department of Military Digital Convergence	1981-06-20	jeffrey_81l@ajou.ac.kr	010-6058-6339
+201870114	Donna	Rho	Professor	Female	2	Department of Digital Media	1993-06-05	donna_93r@ajou.ac.kr	010-5869-5164
+199970115	Haeun	Jackson	Staff	Female	3	Department of Military Digital Convergence	1974-09-27	haeun_74j@ajou.ac.kr	010-3939-5312
+200770116	Haeun	Martin	TA	Female	3	Department of Military Digital Convergence	1982-03-19	haeun_82m@ajou.ac.kr	010-9779-8708
+201370117	Michelle	Robinson	Staff	Female	4	Department of Applied Artificial Intelligence	1988-05-05	michelle_88r@ajou.ac.kr	010-4143-4104
+200670118	Robert	Johnson	Staff	Male	0	Department of Software and Computer Engineering	1981-05-05	robert_81j@ajou.ac.kr	010-4314-0161
+199870119	Mark	Martinez	TA	Male	0	Department of Software and Computer Engineering	1973-03-19	mark_73m@ajou.ac.kr	010-9310-4894
+201770120	Seojoon	Moore	TA	Male	1	Department of Cyber Security	1992-04-19	seojoon_92m@ajou.ac.kr	010-6234-9418
+200170121	Donna	Min	TA	Female	2	Department of Digital Media	1976-06-23	donna_76m@ajou.ac.kr	010-2551-1284
+201770122	George	Dereskeviciute	Staff	Male	2	Department of Digital Media	1992-01-27	george_92d@ajou.ac.kr	010-3880-3187
+201170123	Charles	Taylor	Staff	Male	0	Department of Software and Computer Engineering	1986-02-19	charles_86t@ajou.ac.kr	010-9637-4519
+201470124	Ashley	Yu	TA	Female	1	Department of Cyber Security	1989-03-15	ashley_89y@ajou.ac.kr	010-0681-6512
+200870125	Jeffrey	Song	TA	Male	2	Department of Digital Media	1983-07-05	jeffrey_83s@ajou.ac.kr	010-7423-5800
+200470126	Anthony	Harris	TA	Male	2	Department of Digital Media	1979-09-18	anthony_79h@ajou.ac.kr	010-0817-0952
+201770127	Lisa	Gonzalez	TA	Female	0	Department of Software and Computer Engineering	1992-06-11	lisa_92g@ajou.ac.kr	010-8919-8914
+201670128	Linda	Bottier	TA	Female	2	Department of Digital Media	1991-08-12	linda_91b@ajou.ac.kr	010-0052-7162
+200470129	Jihoo	Robinson	TA	Male	3	Department of Military Digital Convergence	1979-05-28	jihoo_79r@ajou.ac.kr	010-5858-6879
+199370130	Minseo	Thompson	Staff	Female	4	Department of Applied Artificial Intelligence	1968-12-30	minseo_68t@ajou.ac.kr	010-5859-2126
+199770131	Siu	Thompson	TA	Male	0	Department of Software and Computer Engineering	1972-11-05	siu_72t@ajou.ac.kr	010-2164-1877
+199770132	Rebecca	Sim	TA	Female	1	Department of Cyber Security	1972-04-10	rebecca_72s@ajou.ac.kr	010-9111-5374
+200670133	Joonwoo	Hong	TA	Male	0	Department of Software and Computer Engineering	1981-10-17	joonwoo_81h@ajou.ac.kr	010-3398-4476
+201770134	Lisa	Moore	TA	Female	0	Department of Software and Computer Engineering	1992-03-13	lisa_92m@ajou.ac.kr	010-9057-9039
+200570135	Sua	Kang	Professor	Female	3	Department of Military Digital Convergence	1980-08-22	sua_80k@ajou.ac.kr	010-1554-0442
+200470136	Joonseo	Sim	Professor	Male	2	Department of Digital Media	1979-12-21	joonseo_79s@ajou.ac.kr	010-4015-8255
+200170137	Dorothy	Garcia	TA	Female	4	Department of Applied Artificial Intelligence	1976-11-02	dorothy_76g@ajou.ac.kr	010-9610-7506
+200670138	Nancy	Jeong	TA	Female	2	Department of Digital Media	1981-09-23	nancy_81j@ajou.ac.kr	010-7346-6993
+199070139	Brian	Anderson	Professor	Male	2	Department of Digital Media	1965-02-17	brian_65a@ajou.ac.kr	010-3842-5662
+201170140	Jimin	Perez	Professor	Female	4	Department of Applied Artificial Intelligence	1986-08-23	jimin_86p@ajou.ac.kr	010-4254-8653
+201370141	Stephanie	Bottier	TA	Female	2	Department of Digital Media	1988-07-01	stephanie_88b@ajou.ac.kr	010-8005-3419
+201470142	Timothy	Martin	Staff	Male	0	Department of Software and Computer Engineering	1989-05-07	timothy_89m@ajou.ac.kr	010-8267-8518
+200570143	Joowon	Han	Staff	Male	3	Department of Military Digital Convergence	1980-10-26	joowon_80h@ajou.ac.kr	010-6591-9023
+199970144	Ronald	Harris	Professor	Male	1	Department of Cyber Security	1974-10-25	ronald_74h@ajou.ac.kr	010-9034-3974
+199170145	Andrew	Robinson	Professor	Male	3	Department of Military Digital Convergence	1966-10-22	andrew_66r@ajou.ac.kr	010-6692-2706
+201870146	James	Hall	Professor	Male	3	Department of Military Digital Convergence	1993-02-27	james_93h@ajou.ac.kr	010-0262-0984
+201970147	Amanda	ClarkLewis	TA	Female	0	Department of Software and Computer Engineering	1994-04-07	amanda_94c@ajou.ac.kr	010-2791-2432
+201570148	William	Hall	TA	Male	0	Department of Software and Computer Engineering	1990-10-28	william_90h@ajou.ac.kr	010-8615-3810
+201670149	Sua	Gonzalez	TA	Female	3	Department of Military Digital Convergence	1991-06-16	sua_91g@ajou.ac.kr	010-5754-0943
+201870150	Ashley	Miller	Staff	Female	0	Department of Software and Computer Engineering	1993-11-11	ashley_93m@ajou.ac.kr	010-4040-0984
+201670151	Doyoon	Martinez	Professor	Male	4	Department of Applied Artificial Intelligence	1991-04-13	doyoon_91m@ajou.ac.kr	010-5345-6118
+201170152	Timothy	Hong	Staff	Male	3	Department of Military Digital Convergence	1986-09-20	timothy_86h@ajou.ac.kr	010-9804-2528
+199770153	Minjoon	Han	Staff	Male	3	Department of Military Digital Convergence	1972-06-21	minjoon_72h@ajou.ac.kr	010-9614-5368
+199870154	Ashley	Johnson	Professor	Female	1	Department of Cyber Security	1973-04-07	ashley_73j@ajou.ac.kr	010-2722-2844
+199970155	Deborah	Cho	Professor	Female	1	Department of Cyber Security	1974-01-11	deborah_74c@ajou.ac.kr	010-2704-7210
+200670156	Thomas	Kang	Staff	Male	0	Department of Software and Computer Engineering	1981-07-04	thomas_81k@ajou.ac.kr	010-0338-1286
+201870157	Charles	Brown	Professor	Male	3	Department of Military Digital Convergence	1993-10-10	charles_93b@ajou.ac.kr	010-9036-8248
+199770158	Richard	Hall	TA	Male	4	Department of Applied Artificial Intelligence	1972-04-05	richard_72h@ajou.ac.kr	010-7025-8472
+199870159	Geonwoo	Perez	TA	Male	2	Department of Digital Media	1973-12-09	geonwoo_73p@ajou.ac.kr	010-0787-6465
+201070160	Donna	Ha	Professor	Female	3	Department of Military Digital Convergence	1985-12-12	donna_85h@ajou.ac.kr	010-1578-6101
+201570161	Dorothy	Garcia	Staff	Female	4	Department of Applied Artificial Intelligence	1990-09-10	dorothy_90g@ajou.ac.kr	010-6854-8762
+201670162	Joshua	Yu	Professor	Male	2	Department of Digital Media	1991-05-12	joshua_91y@ajou.ac.kr	010-9053-0333
+199270163	Lisa	Hernandez	Professor	Female	0	Department of Software and Computer Engineering	1967-12-24	lisa_67h@ajou.ac.kr	010-4951-9943
+200670164	John	Wilson	Staff	Male	0	Department of Software and Computer Engineering	1981-08-28	john_81w@ajou.ac.kr	010-0351-6033
+200570165	John	Sim	TA	Male	3	Department of Military Digital Convergence	1980-04-21	john_80s@ajou.ac.kr	010-5338-9194
+200670166	Matthew	Yu	Professor	Male	4	Department of Applied Artificial Intelligence	1981-05-12	matthew_81y@ajou.ac.kr	010-8864-9129
+200170167	Paul	Rho	TA	Male	3	Department of Military Digital Convergence	1976-09-30	paul_76r@ajou.ac.kr	010-3001-3143
+201170168	Jeffrey	Anderson	TA	Male	0	Department of Software and Computer Engineering	1986-01-03	jeffrey_86a@ajou.ac.kr	010-7916-7337
+200570169	Sarah	Smith	Staff	Female	2	Department of Digital Media	1980-12-22	sarah_80s@ajou.ac.kr	010-2843-6934
+199270170	Richard	Rho	Staff	Male	2	Department of Digital Media	1967-02-18	richard_67r@ajou.ac.kr	010-2671-9591
+199070171	Cynthia	Perez	Professor	Female	3	Department of Military Digital Convergence	1965-05-13	cynthia_65p@ajou.ac.kr	010-8990-4648
+201570172	Robert	Wilson	Professor	Male	1	Department of Cyber Security	1990-06-15	robert_90w@ajou.ac.kr	010-3023-5244
+201570173	Christopher	Min	TA	Male	1	Department of Cyber Security	1990-02-12	christopher_90m@ajou.ac.kr	010-9190-0214
+199970174	Margaret	Taylor	Staff	Female	2	Department of Digital Media	1974-10-07	margaret_74t@ajou.ac.kr	010-4150-9022
+199070175	Kenneth	Harris	Professor	Male	4	Department of Applied Artificial Intelligence	1965-12-30	kenneth_65h@ajou.ac.kr	010-5882-6369
+200270176	Melissa	ClarkLewis	Professor	Female	3	Department of Military Digital Convergence	1977-07-12	melissa_77c@ajou.ac.kr	010-2927-9964
+199870177	Seojoon	Jackson	Staff	Male	4	Department of Applied Artificial Intelligence	1973-05-01	seojoon_73j@ajou.ac.kr	010-3949-3288
+199170178	Sarah	Cho	TA	Female	3	Department of Military Digital Convergence	1966-06-01	sarah_66c@ajou.ac.kr	010-7391-4957
+199470179	Yejoon	Hong	TA	Male	1	Department of Cyber Security	1969-02-07	yejoon_69h@ajou.ac.kr	010-7200-5741
+201570180	Steven	Kang	TA	Male	2	Department of Digital Media	1990-09-24	steven_90k@ajou.ac.kr	010-1844-7535
+200970181	Michael	Martin	Staff	Male	2	Department of Digital Media	1984-11-24	michael_84m@ajou.ac.kr	010-7609-3493
+199970182	Carol	Lopez	Staff	Female	1	Department of Cyber Security	1974-09-11	carol_74l@ajou.ac.kr	010-5941-9133
+200470183	Chaewon	Harris	Professor	Female	3	Department of Military Digital Convergence	1979-04-19	chaewon_79h@ajou.ac.kr	010-4516-7473
+200170184	John	ClarkLewis	Staff	Male	1	Department of Cyber Security	1976-02-06	john_76c@ajou.ac.kr	010-8087-7619
+201870185	Stephanie	Lopez	Staff	Female	0	Department of Software and Computer Engineering	1993-10-23	stephanie_93l@ajou.ac.kr	010-9555-9017
+201470186	Joonwoo	Park	TA	Male	2	Department of Digital Media	1989-06-03	joonwoo_89p@ajou.ac.kr	010-5603-1684
+200170187	Geonwoo	Lee	Professor	Male	3	Department of Military Digital Convergence	1976-06-05	geonwoo_76l@ajou.ac.kr	010-1582-5761
+200170188	Barbara	Kang	TA	Female	2	Department of Digital Media	1976-06-18	barbara_76k@ajou.ac.kr	010-4195-8463
+200670189	Linda	Yu	Staff	Female	3	Department of Military Digital Convergence	1981-04-04	linda_81y@ajou.ac.kr	010-6792-9151
+199170190	Jimin	Song	TA	Female	1	Department of Cyber Security	1966-08-19	jimin_66s@ajou.ac.kr	010-9269-1836
+200070191	Yejoon	Williams	Professor	Male	2	Department of Digital Media	1975-08-20	yejoon_75w@ajou.ac.kr	010-9066-2768
+201170192	Emily	Lee	Professor	Female	1	Department of Cyber Security	1986-09-26	emily_86l@ajou.ac.kr	010-5770-1753
+201970193	Cynthia	Rochette	TA	Female	2	Department of Digital Media	1994-06-24	cynthia_94r@ajou.ac.kr	010-3606-0735
+200870194	Cynthia	ClarkLewis	Professor	Female	1	Department of Cyber Security	1983-04-13	cynthia_83c@ajou.ac.kr	010-3676-0782
+199370195	James	Hong	Professor	Male	1	Department of Cyber Security	1968-03-21	james_68h@ajou.ac.kr	010-4526-8827
+199270196	Jia	Robinson	Staff	Female	3	Department of Military Digital Convergence	1967-07-09	jia_67r@ajou.ac.kr	010-7635-8948
+199170197	William	Yu	Professor	Male	2	Department of Digital Media	1966-09-27	william_66y@ajou.ac.kr	010-8662-5206
+201470198	Jihoo	White	Professor	Male	3	Department of Military Digital Convergence	1989-09-03	jihoo_89w@ajou.ac.kr	010-0734-5584
+201770199	Yejoon	Brown	Staff	Male	4	Department of Applied Artificial Intelligence	1992-04-11	yejoon_92b@ajou.ac.kr	010-1467-0249
+199570200	Edward	Han	TA	Male	4	Department of Applied Artificial Intelligence	1970-10-25	edward_70h@ajou.ac.kr	010-0769-1457
+201470201	Ashley	Smith	TA	Female	1	Department of Cyber Security	1989-01-16	ashley_89s@ajou.ac.kr	010-8046-5994
+200970202	Thomas	Harris	Staff	Male	3	Department of Military Digital Convergence	1984-05-01	thomas_84h@ajou.ac.kr	010-2689-7048
+201570203	Jiyoo	Min	TA	Female	2	Department of Digital Media	1990-05-10	jiyoo_90m@ajou.ac.kr	010-2567-6819
+200470204	Amanda	Perez	Staff	Female	0	Department of Software and Computer Engineering	1979-01-16	amanda_79p@ajou.ac.kr	010-4798-1015
+200170205	Yoonseo	Moore	Staff	Female	0	Department of Software and Computer Engineering	1976-04-05	yoonseo_76m@ajou.ac.kr	010-7941-6513
+201070206	Michael	Nguyen	Staff	Male	1	Department of Cyber Security	1985-05-01	michael_85n@ajou.ac.kr	010-5583-2851
+201370207	Jihoo	Taylor	TA	Male	3	Department of Military Digital Convergence	1988-09-05	jihoo_88t@ajou.ac.kr	010-4886-9625
+200970208	Andrew	Miller	TA	Male	1	Department of Cyber Security	1984-07-08	andrew_84m@ajou.ac.kr	010-2354-9089
+200870209	Rebecca	Smith	TA	Female	3	Department of Military Digital Convergence	1983-03-12	rebecca_83s@ajou.ac.kr	010-6093-0900
+199270210	Kimberly	Bottier	TA	Female	3	Department of Military Digital Convergence	1967-09-21	kimberly_67b@ajou.ac.kr	010-3299-5009
+201870211	Kimberly	Lee	Professor	Female	0	Department of Software and Computer Engineering	1993-06-05	kimberly_93l@ajou.ac.kr	010-8364-9641
+201770212	Andrew	Moore	Professor	Male	1	Department of Cyber Security	1992-01-03	andrew_92m@ajou.ac.kr	010-3660-6258
+201770213	Robert	Brown	TA	Male	4	Department of Applied Artificial Intelligence	1992-10-15	robert_92b@ajou.ac.kr	010-1265-8546
+199870214	Anthony	Rodriguez	Staff	Male	3	Department of Military Digital Convergence	1973-08-29	anthony_73r@ajou.ac.kr	010-5792-2585
+200470215	Kevin	Park	TA	Male	3	Department of Military Digital Convergence	1979-02-27	kevin_79p@ajou.ac.kr	010-1683-8676
+201270216	Steven	Martin	TA	Male	2	Department of Digital Media	1987-09-02	steven_87m@ajou.ac.kr	010-6648-4644
+200270217	Laura	ClarkLewis	Professor	Female	3	Department of Military Digital Convergence	1977-03-05	laura_77c@ajou.ac.kr	010-1068-5996
+200470218	Linda	Davis	TA	Female	0	Department of Software and Computer Engineering	1979-01-11	linda_79d@ajou.ac.kr	010-0589-7894
+200970219	Jiho	Min	TA	Male	2	Department of Digital Media	1984-04-10	jiho_84m@ajou.ac.kr	010-1145-0046
+200670220	Mark	ClarkLewis	TA	Male	0	Department of Software and Computer Engineering	1981-11-12	mark_81c@ajou.ac.kr	010-6665-3097
+200670221	Joonseo	Taylor	Staff	Male	1	Department of Cyber Security	1981-03-09	joonseo_81t@ajou.ac.kr	010-2999-6847
+201870222	Jiwoo	Jeong	Staff	Female	2	Department of Digital Media	1993-01-21	jiwoo_93j@ajou.ac.kr	010-1508-3888
+199370223	David	Choi	TA	Male	2	Department of Digital Media	1968-05-01	david_68c@ajou.ac.kr	010-1538-2780
+200470224	Steven	Cho	Staff	Male	2	Department of Digital Media	1979-05-10	steven_79c@ajou.ac.kr	010-8452-7126
+201870225	Jessica	Smith	TA	Female	0	Department of Software and Computer Engineering	1993-12-03	jessica_93s@ajou.ac.kr	010-7189-5220
+199570226	Kimberly	Williams	Staff	Female	2	Department of Digital Media	1970-01-07	kimberly_70w@ajou.ac.kr	010-1178-6681
+201870227	Stephanie	Martin	Professor	Female	0	Department of Software and Computer Engineering	1993-06-11	stephanie_93m@ajou.ac.kr	010-0786-8695
+199070228	Donna	Martin	TA	Female	4	Department of Applied Artificial Intelligence	1965-07-13	donna_65m@ajou.ac.kr	010-9476-4935
+200070229	Linda	Nguyen	Staff	Female	2	Department of Digital Media	1975-02-28	linda_75n@ajou.ac.kr	010-9605-8107
+201970230	Daniel	Sim	Professor	Male	0	Department of Software and Computer Engineering	1994-10-08	daniel_94s@ajou.ac.kr	010-6454-2291
+201170231	Nancy	Thompson	TA	Female	4	Department of Applied Artificial Intelligence	1986-01-16	nancy_86t@ajou.ac.kr	010-3760-0927
+201670232	Siu	White	TA	Male	4	Department of Applied Artificial Intelligence	1991-07-09	siu_91w@ajou.ac.kr	010-1819-1015
+199870233	Karen	Lee	Staff	Female	4	Department of Applied Artificial Intelligence	1973-01-27	karen_73l@ajou.ac.kr	010-4132-8463
+201370234	Sarah	ClarkLewis	Staff	Female	3	Department of Military Digital Convergence	1988-07-14	sarah_88c@ajou.ac.kr	010-1219-0283
+199870235	Seohyun	Martinez	Professor	Female	2	Department of Digital Media	1973-01-07	seohyun_73m@ajou.ac.kr	010-1039-1505
+201870236	John	Heo	TA	Male	1	Department of Cyber Security	1993-10-27	john_93h@ajou.ac.kr	010-5745-5724
+201070237	Linda	Jeong	Staff	Female	0	Department of Software and Computer Engineering	1985-05-20	linda_85j@ajou.ac.kr	010-9643-8466
+199970238	Seoyoon	Thompson	TA	Female	1	Department of Cyber Security	1974-08-26	seoyoon_74t@ajou.ac.kr	010-1667-7322
+199170239	John	Robinson	TA	Male	4	Department of Applied Artificial Intelligence	1966-12-25	john_66r@ajou.ac.kr	010-0408-1809
+199170240	Joowon	Lee	Professor	Male	4	Department of Applied Artificial Intelligence	1966-04-18	joowon_66l@ajou.ac.kr	010-9942-0162
+200670241	Sarah	Bottier	Staff	Female	1	Department of Cyber Security	1981-04-13	sarah_81b@ajou.ac.kr	010-5553-2414
+201870242	Sharon	Miller	Professor	Female	1	Department of Cyber Security	1993-06-20	sharon_93m@ajou.ac.kr	010-2362-0571
+201670243	Hajoon	Hernandez	Professor	Male	3	Department of Military Digital Convergence	1991-05-06	hajoon_91h@ajou.ac.kr	010-9781-2881
+200570244	Amanda	Han	Staff	Female	3	Department of Military Digital Convergence	1980-01-03	amanda_80h@ajou.ac.kr	010-3088-0633
+200670245	Seohyun	Walker	Staff	Female	0	Department of Software and Computer Engineering	1981-06-01	seohyun_81w@ajou.ac.kr	010-1287-5689
+201170246	Susan	Walker	Professor	Female	1	Department of Cyber Security	1986-12-30	susan_86w@ajou.ac.kr	010-5546-1043
+201370247	Chaewon	Yu	Staff	Female	0	Department of Software and Computer Engineering	1988-12-08	chaewon_88y@ajou.ac.kr	010-6114-0011
+200670248	Yejoon	Song	TA	Male	2	Department of Digital Media	1981-12-20	yejoon_81s@ajou.ac.kr	010-5041-8124
+200470249	Melissa	Gonzalez	Staff	Female	4	Department of Applied Artificial Intelligence	1979-05-24	melissa_79g@ajou.ac.kr	010-6501-7265
+199970250	Kenneth	Park	Professor	Male	2	Department of Digital Media	1974-09-16	kenneth_74p@ajou.ac.kr	010-6750-4382
+201470251	Melissa	Park	Professor	Female	0	Department of Software and Computer Engineering	1989-11-18	melissa_89p@ajou.ac.kr	010-6636-4747
+201170252	Richard	Rochette	Staff	Male	3	Department of Military Digital Convergence	1986-10-15	richard_86r@ajou.ac.kr	010-5655-5965
+199870253	Patricia	Cho	Staff	Female	4	Department of Applied Artificial Intelligence	1973-03-05	patricia_73c@ajou.ac.kr	010-4335-1288
+201770254	Jiho	Choi	Professor	Male	2	Department of Digital Media	1992-03-07	jiho_92c@ajou.ac.kr	010-2734-9962
+201670255	Rebecca	Gonzalez	Professor	Female	1	Department of Cyber Security	1991-05-22	rebecca_91g@ajou.ac.kr	010-6399-1774
+200070256	Ryan	Johnson	Professor	Male	4	Department of Applied Artificial Intelligence	1975-05-30	ryan_75j@ajou.ac.kr	010-7977-1579
+199270257	Chaewon	Johnson	Staff	Female	0	Department of Software and Computer Engineering	1967-11-05	chaewon_67j@ajou.ac.kr	010-4364-9857
+201570258	Seohyun	Brown	Staff	Female	3	Department of Military Digital Convergence	1990-06-13	seohyun_90b@ajou.ac.kr	010-4664-2430
+200070259	William	Kim	Staff	Male	3	Department of Military Digital Convergence	1975-06-09	william_75k@ajou.ac.kr	010-8984-3568
+200970260	Kimberly	Perez	Professor	Female	3	Department of Military Digital Convergence	1984-05-08	kimberly_84p@ajou.ac.kr	010-3287-9887
+199970261	Michelle	Taylor	Professor	Female	1	Department of Cyber Security	1974-03-02	michelle_74t@ajou.ac.kr	010-1480-1611
+200770262	Seojoon	Hall	Professor	Male	1	Department of Cyber Security	1982-07-06	seojoon_82h@ajou.ac.kr	010-4982-4106
+201770263	Doyoon	Nguyen	Staff	Male	4	Department of Applied Artificial Intelligence	1992-07-23	doyoon_92n@ajou.ac.kr	010-3904-6124
+199770264	Sandra	Taylor	TA	Female	0	Department of Software and Computer Engineering	1972-01-08	sandra_72t@ajou.ac.kr	010-6253-8905
+200670265	Joseph	Miller	Professor	Male	2	Department of Digital Media	1981-03-11	joseph_81m@ajou.ac.kr	010-4013-5427
+201070266	Timothy	Martinez	TA	Male	2	Department of Digital Media	1985-01-29	timothy_85m@ajou.ac.kr	010-7756-8530
+199470267	Margaret	Anderson	TA	Female	3	Department of Military Digital Convergence	1969-01-24	margaret_69a@ajou.ac.kr	010-2243-5239
+201170268	Carol	Min	Staff	Female	4	Department of Applied Artificial Intelligence	1986-10-21	carol_86m@ajou.ac.kr	010-2511-1869
+201270269	Susan	Han	Professor	Female	2	Department of Digital Media	1987-03-02	susan_87h@ajou.ac.kr	010-8551-6436
+199270270	Jia	Taylor	Professor	Female	2	Department of Digital Media	1967-06-01	jia_67t@ajou.ac.kr	010-8768-9050
+200270271	Hajoon	Dereskeviciute	Professor	Male	1	Department of Cyber Security	1977-11-16	hajoon_77d@ajou.ac.kr	010-1283-7051
+201970272	Donald	Yu	Staff	Male	0	Department of Software and Computer Engineering	1994-04-26	donald_94y@ajou.ac.kr	010-1797-3355
+199770273	Nancy	Johnson	TA	Female	1	Department of Cyber Security	1972-04-19	nancy_72j@ajou.ac.kr	010-2602-9199
+200470274	Jihoo	Johnson	TA	Male	1	Department of Cyber Security	1979-08-01	jihoo_79j@ajou.ac.kr	010-2039-1549
+199370275	Joonseo	Sim	Staff	Male	2	Department of Digital Media	1968-10-27	joonseo_68s@ajou.ac.kr	010-5415-8046
+201970276	Jiwoo	Rochette	Professor	Female	1	Department of Cyber Security	1994-01-14	jiwoo_94r@ajou.ac.kr	010-0275-8998
+200970277	Yejoon	Han	TA	Male	0	Department of Software and Computer Engineering	1984-04-03	yejoon_84h@ajou.ac.kr	010-3269-8570
+201670278	Susan	Heo	Staff	Female	2	Department of Digital Media	1991-10-18	susan_91h@ajou.ac.kr	010-5860-5417
+200170279	Sua	Jackson	TA	Female	2	Department of Digital Media	1976-07-10	sua_76j@ajou.ac.kr	010-7839-5860
+201770280	George	Rochette	Professor	Male	2	Department of Digital Media	1992-02-10	george_92r@ajou.ac.kr	010-4215-0374
+200870281	Hayoon	Park	Professor	Female	3	Department of Military Digital Convergence	1983-09-29	hayoon_83p@ajou.ac.kr	010-0227-4600
+201570282	Robert	Lee	Professor	Male	1	Department of Cyber Security	1990-02-25	robert_90l@ajou.ac.kr	010-8069-4496
+200970283	Hayoon	Kang	TA	Female	4	Department of Applied Artificial Intelligence	1984-06-06	hayoon_84k@ajou.ac.kr	010-0875-0415
+199670284	Joonseo	White	Staff	Male	1	Department of Cyber Security	1971-05-12	joonseo_71w@ajou.ac.kr	010-0772-6734
+199070285	Joshua	Wilson	Professor	Male	1	Department of Cyber Security	1965-05-02	joshua_65w@ajou.ac.kr	010-7043-6759
+199770286	Barbara	Jeong	Professor	Female	1	Department of Cyber Security	1972-07-24	barbara_72j@ajou.ac.kr	010-6206-4145
+201070287	Hajoon	Ha	Staff	Male	3	Department of Military Digital Convergence	1985-04-20	hajoon_85h@ajou.ac.kr	010-5746-4257
+199770288	John	Brown	TA	Male	3	Department of Military Digital Convergence	1972-09-27	john_72b@ajou.ac.kr	010-1430-8152
+201870289	Chaewon	Yu	Staff	Female	0	Department of Software and Computer Engineering	1993-03-29	chaewon_93y@ajou.ac.kr	010-2618-8385
+201370290	Doyoon	Hall	Staff	Male	2	Department of Digital Media	1988-12-11	doyoon_88h@ajou.ac.kr	010-5744-9367
+199770291	William	Walker	Professor	Male	4	Department of Applied Artificial Intelligence	1972-12-13	william_72w@ajou.ac.kr	010-1639-7080
+200170292	Seojoon	Kang	Professor	Male	2	Department of Digital Media	1976-10-04	seojoon_76k@ajou.ac.kr	010-3821-0831
+201770293	Hajoon	Kim	TA	Male	0	Department of Software and Computer Engineering	1992-04-03	hajoon_92k@ajou.ac.kr	010-0335-4859
+199370294	Kimberly	Song	Staff	Female	2	Department of Digital Media	1968-12-08	kimberly_68s@ajou.ac.kr	010-1780-0429
+200870295	Anthony	Thomas	Professor	Male	1	Department of Cyber Security	1983-10-02	anthony_83t@ajou.ac.kr	010-1885-3618
+201270296	Jason	Choi	TA	Male	4	Department of Applied Artificial Intelligence	1987-02-14	jason_87c@ajou.ac.kr	010-1479-3284
+199670297	Steven	Thomas	TA	Male	2	Department of Digital Media	1971-10-10	steven_71t@ajou.ac.kr	010-6395-9079
+201670298	Charles	Smith	Staff	Male	1	Department of Cyber Security	1991-03-08	charles_91s@ajou.ac.kr	010-2932-9232
+200770299	Karen	Garcia	Staff	Female	2	Department of Digital Media	1982-03-03	karen_82g@ajou.ac.kr	010-9537-2111
+199370300	Jihoo	Ha	TA	Male	0	Department of Software and Computer Engineering	1968-06-25	jihoo_68h@ajou.ac.kr	010-7544-1296
+201470301	Donna	Robinson	Professor	Female	4	Department of Applied Artificial Intelligence	1989-01-15	donna_89r@ajou.ac.kr	010-7199-8265
+199570302	Sharon	Jeong	Professor	Female	3	Department of Military Digital Convergence	1970-04-23	sharon_70j@ajou.ac.kr	010-0083-0656
+200270303	Amanda	Rochette	Staff	Female	2	Department of Digital Media	1977-08-23	amanda_77r@ajou.ac.kr	010-2351-1778
+201070304	Mary	Garcia	Professor	Female	0	Department of Software and Computer Engineering	1985-07-06	mary_85g@ajou.ac.kr	010-1317-1719
+200670305	Kimberly	Jackson	Professor	Female	2	Department of Digital Media	1981-07-11	kimberly_81j@ajou.ac.kr	010-4970-9348
+201670306	Charles	Gonzalez	Staff	Male	1	Department of Cyber Security	1991-02-01	charles_91g@ajou.ac.kr	010-5171-9512
+199570307	Dohyun	Miller	TA	Male	4	Department of Applied Artificial Intelligence	1970-06-24	dohyun_70m@ajou.ac.kr	010-5768-8248
+199370308	Sandra	Martinez	TA	Female	3	Department of Military Digital Convergence	1968-10-01	sandra_68m@ajou.ac.kr	010-6351-8329
+200270309	Patricia	Thompson	Professor	Female	2	Department of Digital Media	1977-11-01	patricia_77t@ajou.ac.kr	010-0443-9385
+199270310	Christopher	Ha	Staff	Male	1	Department of Cyber Security	1967-03-25	christopher_67h@ajou.ac.kr	010-4635-2867
+200670311	Ashley	Ha	TA	Female	4	Department of Applied Artificial Intelligence	1981-05-21	ashley_81h@ajou.ac.kr	010-0412-1895
+201870312	David	Song	Professor	Male	0	Department of Software and Computer Engineering	1993-05-24	david_93s@ajou.ac.kr	010-6078-9799
+200170313	Steven	Hernandez	TA	Male	4	Department of Applied Artificial Intelligence	1976-06-10	steven_76h@ajou.ac.kr	010-8649-3014
+201870314	Joshua	Robinson	Staff	Male	2	Department of Digital Media	1993-01-05	joshua_93r@ajou.ac.kr	010-6212-4688
+200570315	Daniel	Williams	Professor	Male	4	Department of Applied Artificial Intelligence	1980-11-17	daniel_80w@ajou.ac.kr	010-4549-9209
+201470316	Joonseo	Nguyen	Staff	Male	0	Department of Software and Computer Engineering	1989-11-05	joonseo_89n@ajou.ac.kr	010-3183-8142
+200270317	Joshua	Han	Staff	Male	2	Department of Digital Media	1977-03-23	joshua_77h@ajou.ac.kr	010-4101-9707
+199870318	James	Kim	Professor	Male	1	Department of Cyber Security	1973-06-11	james_73k@ajou.ac.kr	010-7179-4700
+199270319	Minjoon	Yu	Professor	Male	4	Department of Applied Artificial Intelligence	1967-08-24	minjoon_67y@ajou.ac.kr	010-3307-1910
+201170320	Joshua	Choi	Staff	Male	3	Department of Military Digital Convergence	1986-12-22	joshua_86c@ajou.ac.kr	010-0664-4080
+200970321	Anthony	Wilson	Professor	Male	4	Department of Applied Artificial Intelligence	1984-05-03	anthony_84w@ajou.ac.kr	010-2164-3879
+201470322	Jessica	White	Staff	Female	2	Department of Digital Media	1989-02-06	jessica_89w@ajou.ac.kr	010-6258-2967
+200870323	Karen	Perez	TA	Female	4	Department of Applied Artificial Intelligence	1983-11-25	karen_83p@ajou.ac.kr	010-0289-1632
+201870324	Michelle	Robinson	Staff	Female	1	Department of Cyber Security	1993-12-05	michelle_93r@ajou.ac.kr	010-6057-5444
+201870325	Donald	Hernandez	Professor	Male	0	Department of Software and Computer Engineering	1993-03-07	donald_93h@ajou.ac.kr	010-6824-3812
+201170326	Deborah	Thompson	Staff	Female	3	Department of Military Digital Convergence	1986-08-12	deborah_86t@ajou.ac.kr	010-5640-2358
+201270327	Linda	Lee	Professor	Female	1	Department of Cyber Security	1987-06-03	linda_87l@ajou.ac.kr	010-7560-0860
+201470328	William	Rochette	Professor	Male	4	Department of Applied Artificial Intelligence	1989-04-27	william_89r@ajou.ac.kr	010-6784-2642
+199270329	Timothy	Davis	Staff	Male	0	Department of Software and Computer Engineering	1967-02-02	timothy_67d@ajou.ac.kr	010-2196-3998
+199470330	Edward	Rochette	TA	Male	1	Department of Cyber Security	1969-05-04	edward_69r@ajou.ac.kr	010-1587-8591
+201170331	Betty	Moore	TA	Female	1	Department of Cyber Security	1986-06-27	betty_86m@ajou.ac.kr	010-7137-2467
+200370332	James	Hall	TA	Male	4	Department of Applied Artificial Intelligence	1978-01-02	james_78h@ajou.ac.kr	010-6712-2598
+200770333	Hajoon	Nguyen	Staff	Male	1	Department of Cyber Security	1982-06-24	hajoon_82n@ajou.ac.kr	010-6062-6984
+199470334	Jiyoo	Lee	TA	Female	0	Department of Software and Computer Engineering	1969-06-26	jiyoo_69l@ajou.ac.kr	010-4308-4680
+200070335	Richard	Dereskeviciute	TA	Male	2	Department of Digital Media	1975-11-11	richard_75d@ajou.ac.kr	010-2444-5246
+200370336	Margaret	Johnson	Staff	Female	1	Department of Cyber Security	1978-07-03	margaret_78j@ajou.ac.kr	010-9450-8689
+199670337	Hajoon	Kang	Professor	Male	0	Department of Software and Computer Engineering	1971-12-12	hajoon_71k@ajou.ac.kr	010-8295-4443
+199270338	Chaewon	Robinson	Staff	Female	0	Department of Software and Computer Engineering	1967-02-26	chaewon_67r@ajou.ac.kr	010-3472-0608
+200870339	Nancy	Moore	Staff	Female	0	Department of Software and Computer Engineering	1983-01-04	nancy_83m@ajou.ac.kr	010-1954-4819
+201270340	Minseo	Kang	TA	Female	1	Department of Cyber Security	1987-12-06	minseo_87k@ajou.ac.kr	010-5151-7067
+201470341	Jiyoo	Martin	TA	Female	1	Department of Cyber Security	1989-01-16	jiyoo_89m@ajou.ac.kr	010-4434-2758
+201970342	Sandra	Lee	Professor	Female	4	Department of Applied Artificial Intelligence	1994-12-22	sandra_94l@ajou.ac.kr	010-2389-2029
+201170343	Michael	Johnson	Staff	Male	0	Department of Software and Computer Engineering	1986-05-01	michael_86j@ajou.ac.kr	010-1223-2990
+201070344	David	Wilson	TA	Male	2	Department of Digital Media	1985-05-05	david_85w@ajou.ac.kr	010-0681-4314
+200670345	Seojoon	Anderson	TA	Male	1	Department of Cyber Security	1981-04-02	seojoon_81a@ajou.ac.kr	010-8786-3041
+200570346	Sarah	Miller	Professor	Female	1	Department of Cyber Security	1980-05-11	sarah_80m@ajou.ac.kr	010-4021-1778
+201770347	Michael	Yu	Professor	Male	3	Department of Military Digital Convergence	1992-08-08	michael_92y@ajou.ac.kr	010-9015-0847
+199070348	Jiho	ClarkLewis	TA	Male	3	Department of Military Digital Convergence	1965-04-16	jiho_65c@ajou.ac.kr	010-3271-8316
+199470349	Barbara	Wilson	TA	Female	4	Department of Applied Artificial Intelligence	1969-03-01	barbara_69w@ajou.ac.kr	010-8328-2513
+199970350	Timothy	Jones	Staff	Male	4	Department of Applied Artificial Intelligence	1974-02-27	timothy_74j@ajou.ac.kr	010-1026-6403
+201670351	Thomas	Robinson	TA	Male	1	Department of Cyber Security	1991-01-25	thomas_91r@ajou.ac.kr	010-3750-3243
+200270352	Steven	Cho	TA	Male	1	Department of Cyber Security	1977-11-29	steven_77c@ajou.ac.kr	010-0005-9554
+199970353	Edward	Martin	TA	Male	2	Department of Digital Media	1974-11-17	edward_74m@ajou.ac.kr	010-2977-0559
+199170354	Ashley	Harris	Professor	Female	1	Department of Cyber Security	1966-02-14	ashley_66h@ajou.ac.kr	010-4327-8674
+199570355	Donald	Miller	Professor	Male	3	Department of Military Digital Convergence	1970-05-22	donald_70m@ajou.ac.kr	010-5200-6236
+201170356	Mary	Bottier	TA	Female	0	Department of Software and Computer Engineering	1986-05-16	mary_86b@ajou.ac.kr	010-7183-4726
+200770357	Hajoon	Thomas	Professor	Male	2	Department of Digital Media	1982-10-24	hajoon_82t@ajou.ac.kr	010-2763-9402
+200470358	Donna	Yu	Professor	Female	1	Department of Cyber Security	1979-03-30	donna_79y@ajou.ac.kr	010-8368-1539
+199570359	Nancy	Dereskeviciute	Professor	Female	1	Department of Cyber Security	1970-11-03	nancy_70d@ajou.ac.kr	010-5691-3756
+200670360	Melissa	Nguyen	TA	Female	0	Department of Software and Computer Engineering	1981-04-20	melissa_81n@ajou.ac.kr	010-8950-7583
+200870361	Joowon	Martinez	TA	Male	4	Department of Applied Artificial Intelligence	1983-07-21	joowon_83m@ajou.ac.kr	010-9782-4730
+201470362	Joseph	Hall	Staff	Male	1	Department of Cyber Security	1989-05-14	joseph_89h@ajou.ac.kr	010-7009-4025
+201070363	Amanda	Nguyen	Staff	Female	2	Department of Digital Media	1985-09-17	amanda_85n@ajou.ac.kr	010-6026-6651
+200070364	Geonwoo	Brown	TA	Male	3	Department of Military Digital Convergence	1975-03-15	geonwoo_75b@ajou.ac.kr	010-8781-4284
+201070365	Edward	Martin	Professor	Male	0	Department of Software and Computer Engineering	1985-04-15	edward_85m@ajou.ac.kr	010-3652-9899
+199470366	Jimin	Hernandez	Professor	Female	2	Department of Digital Media	1969-10-22	jimin_69h@ajou.ac.kr	010-8114-4727
+201170367	Margaret	Hong	Professor	Female	4	Department of Applied Artificial Intelligence	1986-01-22	margaret_86h@ajou.ac.kr	010-7535-4900
+201270368	Brian	Nguyen	TA	Male	2	Department of Digital Media	1987-06-15	brian_87n@ajou.ac.kr	010-4359-7727
+201570369	Stephanie	Brown	TA	Female	0	Department of Software and Computer Engineering	1990-03-15	stephanie_90b@ajou.ac.kr	010-6451-5157
+200870370	Laura	Nguyen	Staff	Female	0	Department of Software and Computer Engineering	1983-04-18	laura_83n@ajou.ac.kr	010-4226-0064
+199670371	Jiho	Wilson	Professor	Male	3	Department of Military Digital Convergence	1971-03-02	jiho_71w@ajou.ac.kr	010-6143-1748
+201870372	Kimberly	Moore	Professor	Female	4	Department of Applied Artificial Intelligence	1993-06-21	kimberly_93m@ajou.ac.kr	010-8019-1716
+201570373	Ryan	Smith	Staff	Male	1	Department of Cyber Security	1990-04-27	ryan_90s@ajou.ac.kr	010-5879-8825
+199370374	Jennifer	Dereskeviciute	Staff	Female	0	Department of Software and Computer Engineering	1968-10-05	jennifer_68d@ajou.ac.kr	010-0887-5041
+200670375	Daniel	Song	Professor	Male	3	Department of Military Digital Convergence	1981-09-04	daniel_81s@ajou.ac.kr	010-3758-3305
+199770376	Sandra	Taylor	TA	Female	1	Department of Cyber Security	1972-03-17	sandra_72t@ajou.ac.kr	010-6231-6446
+200470377	Edward	Kang	Professor	Male	2	Department of Digital Media	1979-04-04	edward_79k@ajou.ac.kr	010-2359-5977
+201870378	Melissa	Yu	Professor	Female	0	Department of Software and Computer Engineering	1993-07-27	melissa_93y@ajou.ac.kr	010-1737-2093
+199770379	Ronald	Walker	TA	Male	2	Department of Digital Media	1972-10-09	ronald_72w@ajou.ac.kr	010-7334-4985
+200470380	Barbara	Park	Staff	Female	2	Department of Digital Media	1979-10-02	barbara_79p@ajou.ac.kr	010-0027-9193
+200170381	Barbara	Hong	Staff	Female	2	Department of Digital Media	1976-06-20	barbara_76h@ajou.ac.kr	010-0179-3437
+201670382	Jiho	Park	Professor	Male	1	Department of Cyber Security	1991-09-24	jiho_91p@ajou.ac.kr	010-4658-4033
+201870383	David	Jeong	Staff	Male	1	Department of Cyber Security	1993-02-24	david_93j@ajou.ac.kr	010-1341-3378
+201170384	Jennifer	Smith	Professor	Female	4	Department of Applied Artificial Intelligence	1986-07-02	jennifer_86s@ajou.ac.kr	010-5864-6625
+199570385	Jia	Yu	TA	Female	1	Department of Cyber Security	1970-07-17	jia_70y@ajou.ac.kr	010-3250-8462
+199670386	Michelle	Brown	TA	Female	3	Department of Military Digital Convergence	1971-01-04	michelle_71b@ajou.ac.kr	010-3199-9181
+201870387	Michelle	Rodriguez	TA	Female	2	Department of Digital Media	1993-10-04	michelle_93r@ajou.ac.kr	010-2808-5427
+200370388	Jiyoo	Song	Professor	Female	4	Department of Applied Artificial Intelligence	1978-04-25	jiyoo_78s@ajou.ac.kr	010-5495-3295
+199370389	Haeun	Han	TA	Female	4	Department of Applied Artificial Intelligence	1968-03-20	haeun_68h@ajou.ac.kr	010-8924-1669
+200470390	Seojoon	Williams	Staff	Male	2	Department of Digital Media	1979-11-18	seojoon_79w@ajou.ac.kr	010-9202-6227
+200370391	Linda	Hernandez	TA	Female	0	Department of Software and Computer Engineering	1978-01-04	linda_78h@ajou.ac.kr	010-1474-7593
+201270392	David	Hernandez	TA	Male	4	Department of Applied Artificial Intelligence	1987-05-15	david_87h@ajou.ac.kr	010-2239-6484
+199970393	Robert	Hernandez	TA	Male	2	Department of Digital Media	1974-09-24	robert_74h@ajou.ac.kr	010-4154-1237
+200170394	Deborah	Miller	TA	Female	4	Department of Applied Artificial Intelligence	1976-04-16	deborah_76m@ajou.ac.kr	010-9613-2051
+200670395	Christopher	Harris	Professor	Male	3	Department of Military Digital Convergence	1981-08-16	christopher_81h@ajou.ac.kr	010-8023-0629
+201570396	Yejoon	Bottier	Professor	Male	2	Department of Digital Media	1990-12-23	yejoon_90b@ajou.ac.kr	010-8912-8436
+199570397	Joowon	Kim	Staff	Male	0	Department of Software and Computer Engineering	1970-06-18	joowon_70k@ajou.ac.kr	010-8546-5696
+200170398	James	Jackson	Professor	Male	4	Department of Applied Artificial Intelligence	1976-10-25	james_76j@ajou.ac.kr	010-9323-3770
+200570399	Kimberly	Robinson	TA	Female	2	Department of Digital Media	1980-01-04	kimberly_80r@ajou.ac.kr	010-0363-1962
+200270400	Anthony	Robinson	Staff	Male	0	Department of Software and Computer Engineering	1977-07-27	anthony_77r@ajou.ac.kr	010-3417-7255
+200070401	Sua	Dereskeviciute	Staff	Female	4	Department of Applied Artificial Intelligence	1975-03-10	sua_75d@ajou.ac.kr	010-2203-8485
+199770402	Deborah	Perez	Staff	Female	3	Department of Military Digital Convergence	1972-10-10	deborah_72p@ajou.ac.kr	010-4175-0990
+199870403	Margaret	Lopez	Staff	Female	1	Department of Cyber Security	1973-01-04	margaret_73l@ajou.ac.kr	010-7158-3101
+200570404	Margaret	Williams	Staff	Female	3	Department of Military Digital Convergence	1980-03-23	margaret_80w@ajou.ac.kr	010-1293-3952
+199470405	Chaewon	Dereskeviciute	TA	Female	0	Department of Software and Computer Engineering	1969-12-06	chaewon_69d@ajou.ac.kr	010-4667-9727
+200970406	Karen	Smith	TA	Female	4	Department of Applied Artificial Intelligence	1984-03-08	karen_84s@ajou.ac.kr	010-2743-0139
+200870407	Mary	Smith	Professor	Female	3	Department of Military Digital Convergence	1983-06-28	mary_83s@ajou.ac.kr	010-6587-4757
+200470408	Jia	Jackson	TA	Female	3	Department of Military Digital Convergence	1979-12-30	jia_79j@ajou.ac.kr	010-0457-3750
+200670409	Sharon	Min	Professor	Female	2	Department of Digital Media	1981-06-04	sharon_81m@ajou.ac.kr	010-7649-6081
+199270410	Linda	Martin	Professor	Female	1	Department of Cyber Security	1967-11-12	linda_67m@ajou.ac.kr	010-2341-9446
+200470411	Sharon	Walker	TA	Female	3	Department of Military Digital Convergence	1979-09-25	sharon_79w@ajou.ac.kr	010-4555-9905
+201170412	Minjoon	Heo	TA	Male	1	Department of Cyber Security	1986-06-02	minjoon_86h@ajou.ac.kr	010-1035-1943
+200270413	Seoyoon	Garcia	Staff	Female	0	Department of Software and Computer Engineering	1977-01-23	seoyoon_77g@ajou.ac.kr	010-8103-1527
+201370414	Elizabeth	Kang	Professor	Female	1	Department of Cyber Security	1988-08-18	elizabeth_88k@ajou.ac.kr	010-4705-4739
+201270415	Thomas	Han	TA	Male	3	Department of Military Digital Convergence	1987-10-25	thomas_87h@ajou.ac.kr	010-2663-0185
+200970416	Mary	Cho	Staff	Female	2	Department of Digital Media	1984-02-16	mary_84c@ajou.ac.kr	010-2368-5335
+199070417	Matthew	Robinson	Staff	Male	2	Department of Digital Media	1965-01-10	matthew_65r@ajou.ac.kr	010-3214-9020
+199370418	Kevin	Yu	Professor	Male	0	Department of Software and Computer Engineering	1968-05-11	kevin_68y@ajou.ac.kr	010-5978-7039
+199270419	Jia	White	Staff	Female	0	Department of Software and Computer Engineering	1967-01-02	jia_67w@ajou.ac.kr	010-9007-9827
+201270420	Yoonseo	Ha	Professor	Female	3	Department of Military Digital Convergence	1987-08-27	yoonseo_87h@ajou.ac.kr	010-0745-9515
+200870421	Melissa	Martin	Staff	Female	1	Department of Cyber Security	1983-05-29	melissa_83m@ajou.ac.kr	010-0287-8654
+199570422	Seoyoon	Wilson	Professor	Female	4	Department of Applied Artificial Intelligence	1970-06-08	seoyoon_70w@ajou.ac.kr	010-0065-5127
+201870423	Cynthia	Perez	Professor	Female	0	Department of Software and Computer Engineering	1993-05-22	cynthia_93p@ajou.ac.kr	010-6394-9111
+201970424	Charles	Robinson	Professor	Male	1	Department of Cyber Security	1994-12-22	charles_94r@ajou.ac.kr	010-3818-3395
+199670425	Christopher	Sim	TA	Male	1	Department of Cyber Security	1971-12-26	christopher_71s@ajou.ac.kr	010-6032-0416
+201870426	Laura	Cho	Staff	Female	3	Department of Military Digital Convergence	1993-07-11	laura_93c@ajou.ac.kr	010-2830-1293
+201770427	Joshua	Taylor	Professor	Male	1	Department of Cyber Security	1992-12-11	joshua_92t@ajou.ac.kr	010-3561-3184
+201070428	David	Walker	Staff	Male	4	Department of Applied Artificial Intelligence	1985-11-12	david_85w@ajou.ac.kr	010-3954-2263
+199470429	Linda	Perez	TA	Female	4	Department of Applied Artificial Intelligence	1969-12-21	linda_69p@ajou.ac.kr	010-0553-1325
+200670430	Sandra	Heo	TA	Female	2	Department of Digital Media	1981-11-06	sandra_81h@ajou.ac.kr	010-2950-1042
+199570431	Joonseo	Jackson	Professor	Male	0	Department of Software and Computer Engineering	1970-07-28	joonseo_70j@ajou.ac.kr	010-4494-1637
+201370432	Kenneth	Choi	Professor	Male	1	Department of Cyber Security	1988-01-01	kenneth_88c@ajou.ac.kr	010-0002-7354
+199470433	Deborah	Martin	Professor	Female	3	Department of Military Digital Convergence	1969-08-23	deborah_69m@ajou.ac.kr	010-8550-0597
+199270434	Hayoon	Sim	TA	Female	0	Department of Software and Computer Engineering	1967-04-03	hayoon_67s@ajou.ac.kr	010-5980-0419
+199370435	Thomas	Robinson	Staff	Male	2	Department of Digital Media	1968-06-01	thomas_68r@ajou.ac.kr	010-5992-9789
+200870436	Margaret	Song	TA	Female	4	Department of Applied Artificial Intelligence	1983-03-01	margaret_83s@ajou.ac.kr	010-7276-5383
+199670437	Jason	Anderson	Staff	Male	1	Department of Cyber Security	1971-08-04	jason_71a@ajou.ac.kr	010-2338-8147
+201370438	Jessica	Robinson	Staff	Female	0	Department of Software and Computer Engineering	1988-04-13	jessica_88r@ajou.ac.kr	010-4209-9948
+200670439	Amanda	Perez	Staff	Female	1	Department of Cyber Security	1981-09-21	amanda_81p@ajou.ac.kr	010-3408-7923
+199070440	Anthony	Lee	Professor	Male	0	Department of Software and Computer Engineering	1965-09-11	anthony_65l@ajou.ac.kr	010-2655-0546
+200070441	Sarah	Heo	Professor	Female	4	Department of Applied Artificial Intelligence	1975-10-22	sarah_75h@ajou.ac.kr	010-7980-0061
+201070442	Sua	Wilson	TA	Female	0	Department of Software and Computer Engineering	1985-12-28	sua_85w@ajou.ac.kr	010-9639-3273
+200770443	Susan	Choi	TA	Female	4	Department of Applied Artificial Intelligence	1982-02-24	susan_82c@ajou.ac.kr	010-7221-1657
+200170444	Donald	Sim	TA	Male	3	Department of Military Digital Convergence	1976-08-10	donald_76s@ajou.ac.kr	010-9991-6987
+200770445	Jessica	Rochette	Staff	Female	1	Department of Cyber Security	1982-10-06	jessica_82r@ajou.ac.kr	010-6564-2757
+199070446	Jeffrey	Wilson	TA	Male	0	Department of Software and Computer Engineering	1965-06-04	jeffrey_65w@ajou.ac.kr	010-8112-8451
+200970447	William	White	TA	Male	2	Department of Digital Media	1984-08-11	william_84w@ajou.ac.kr	010-9883-4524
+199470448	Sharon	Hall	Staff	Female	0	Department of Software and Computer Engineering	1969-01-09	sharon_69h@ajou.ac.kr	010-2923-8593
+201170449	Siu	Jackson	Staff	Male	1	Department of Cyber Security	1986-10-26	siu_86j@ajou.ac.kr	010-4953-3825
+201670450	James	Sim	TA	Male	2	Department of Digital Media	1991-01-19	james_91s@ajou.ac.kr	010-1695-6485
+200870451	Minjoon	Lee	Staff	Male	0	Department of Software and Computer Engineering	1983-10-16	minjoon_83l@ajou.ac.kr	010-8516-1413
+201170452	Anthony	Bottier	Staff	Male	2	Department of Digital Media	1986-03-08	anthony_86b@ajou.ac.kr	010-6799-7246
+201870453	Anthony	Sim	Staff	Male	2	Department of Digital Media	1993-09-15	anthony_93s@ajou.ac.kr	010-4321-3639
+199470454	Anthony	Hall	Staff	Male	2	Department of Digital Media	1969-12-12	anthony_69h@ajou.ac.kr	010-8220-7551
+200570455	Hajoon	Harris	Staff	Male	4	Department of Applied Artificial Intelligence	1980-07-29	hajoon_80h@ajou.ac.kr	010-4503-0576
+200870456	Ryan	Rochette	Staff	Male	2	Department of Digital Media	1983-04-14	ryan_83r@ajou.ac.kr	010-3190-1874
+200670457	David	Park	TA	Male	2	Department of Digital Media	1981-12-13	david_81p@ajou.ac.kr	010-8074-3586
+200970458	Stephanie	Jackson	Staff	Female	1	Department of Cyber Security	1984-04-28	stephanie_84j@ajou.ac.kr	010-6324-0356
+200970459	Betty	White	Professor	Female	2	Department of Digital Media	1984-12-02	betty_84w@ajou.ac.kr	010-0470-9100
+199870460	Richard	Walker	Professor	Male	2	Department of Digital Media	1973-04-08	richard_73w@ajou.ac.kr	010-4006-8440
+201670461	Carol	Taylor	TA	Female	3	Department of Military Digital Convergence	1991-05-06	carol_91t@ajou.ac.kr	010-0416-9062
+200070462	Christopher	Rodriguez	TA	Male	4	Department of Applied Artificial Intelligence	1975-03-04	christopher_75r@ajou.ac.kr	010-7417-3637
+199870463	Joonseo	Min	TA	Male	1	Department of Cyber Security	1973-11-21	joonseo_73m@ajou.ac.kr	010-0172-2153
+201070464	Sua	Anderson	Professor	Female	4	Department of Applied Artificial Intelligence	1985-05-28	sua_85a@ajou.ac.kr	010-7544-1850
+199970465	Jiyoo	Smith	Professor	Female	3	Department of Military Digital Convergence	1974-11-05	jiyoo_74s@ajou.ac.kr	010-0627-9939
+201370466	Hajoon	White	Professor	Male	0	Department of Software and Computer Engineering	1988-01-25	hajoon_88w@ajou.ac.kr	010-4705-6279
+201670467	Lisa	Bacha	Staff	Female	4	Department of Applied Artificial Intelligence	1991-07-30	lisa_91b@ajou.ac.kr	010-7526-3022
+199170468	Hajoon	Heo	Staff	Male	4	Department of Applied Artificial Intelligence	1966-01-20	hajoon_66h@ajou.ac.kr	010-0625-0071
+199870469	Robert	Kang	TA	Male	2	Department of Digital Media	1973-02-15	robert_73k@ajou.ac.kr	010-1923-9386
+199870470	Laura	Bacha	Professor	Female	3	Department of Military Digital Convergence	1973-06-25	laura_73b@ajou.ac.kr	010-3244-3144
+201470471	Rebecca	Ha	Staff	Female	1	Department of Cyber Security	1989-12-25	rebecca_89h@ajou.ac.kr	010-7954-3468
+200470472	Seohyun	Walker	TA	Female	4	Department of Applied Artificial Intelligence	1979-07-24	seohyun_79w@ajou.ac.kr	010-3215-2190
+200770473	Sarah	Bottier	Staff	Female	3	Department of Military Digital Convergence	1982-05-18	sarah_82b@ajou.ac.kr	010-6252-0514
+200270474	Jia	Moore	Professor	Female	3	Department of Military Digital Convergence	1977-03-15	jia_77m@ajou.ac.kr	010-6313-8162
+199370475	Anthony	Bacha	Professor	Male	4	Department of Applied Artificial Intelligence	1968-12-27	anthony_68b@ajou.ac.kr	010-6188-7427
+201070476	Sua	Ha	Staff	Female	2	Department of Digital Media	1985-01-15	sua_85h@ajou.ac.kr	010-7415-2210
+200670477	Thomas	Yu	TA	Male	1	Department of Cyber Security	1981-03-09	thomas_81y@ajou.ac.kr	010-2490-4267
+199370478	Yejoon	Walker	TA	Male	2	Department of Digital Media	1968-12-04	yejoon_68w@ajou.ac.kr	010-1926-7981
+200070479	Christopher	Gonzalez	TA	Male	4	Department of Applied Artificial Intelligence	1975-06-10	christopher_75g@ajou.ac.kr	010-7050-4664
+199470480	Margaret	Taylor	Professor	Female	0	Department of Software and Computer Engineering	1969-09-10	margaret_69t@ajou.ac.kr	010-0364-8072
+201770481	Seoyoon	Thomas	Staff	Female	2	Department of Digital Media	1992-11-27	seoyoon_92t@ajou.ac.kr	010-8121-6632
+201670482	Jihoo	White	Professor	Male	1	Department of Cyber Security	1991-12-07	jihoo_91w@ajou.ac.kr	010-4776-0866
+201970483	Betty	Bacha	TA	Female	4	Department of Applied Artificial Intelligence	1994-10-04	betty_94b@ajou.ac.kr	010-7378-7020
+200470484	William	Choi	Professor	Male	3	Department of Military Digital Convergence	1979-08-27	william_79c@ajou.ac.kr	010-0982-4208
+200670485	Jia	Martinez	Staff	Female	4	Department of Applied Artificial Intelligence	1981-10-22	jia_81m@ajou.ac.kr	010-9218-0116
+200270486	Laura	White	TA	Female	2	Department of Digital Media	1977-10-10	laura_77w@ajou.ac.kr	010-1713-7541
+201470487	Emily	Perez	Professor	Female	0	Department of Software and Computer Engineering	1989-09-14	emily_89p@ajou.ac.kr	010-8680-7756
+199070488	Amanda	Jones	Professor	Female	1	Department of Cyber Security	1965-05-22	amanda_65j@ajou.ac.kr	010-3548-5214
+201970489	Hajoon	Heo	Staff	Male	0	Department of Software and Computer Engineering	1994-10-13	hajoon_94h@ajou.ac.kr	010-3943-8376
+201070490	Yoonseo	Bacha	Professor	Female	1	Department of Cyber Security	1985-01-11	yoonseo_85b@ajou.ac.kr	010-2609-2830
+200070491	William	Kim	Staff	Male	4	Department of Applied Artificial Intelligence	1975-01-12	william_75k@ajou.ac.kr	010-6628-6004
+199070492	Rebecca	Davis	Professor	Female	0	Department of Software and Computer Engineering	1965-05-16	rebecca_65d@ajou.ac.kr	010-0344-9518
+200170493	Kevin	Dereskeviciute	Staff	Male	1	Department of Cyber Security	1976-11-30	kevin_76d@ajou.ac.kr	010-1995-6179
+199270494	Cynthia	Sim	TA	Female	0	Department of Software and Computer Engineering	1967-03-08	cynthia_67s@ajou.ac.kr	010-2137-5260
+200570495	Betty	Yu	Professor	Female	1	Department of Cyber Security	1980-10-20	betty_80y@ajou.ac.kr	010-7608-1314
+200170496	Patricia	Lopez	TA	Female	3	Department of Military Digital Convergence	1976-03-08	patricia_76l@ajou.ac.kr	010-2745-0776
+201170497	William	Brown	Professor	Male	3	Department of Military Digital Convergence	1986-11-30	william_86b@ajou.ac.kr	010-4203-2706
+199970498	Patricia	Song	Staff	Female	3	Department of Military Digital Convergence	1974-07-04	patricia_74s@ajou.ac.kr	010-3964-9800
+199470499	Doyoon	Miller	TA	Male	4	Department of Applied Artificial Intelligence	1969-11-29	doyoon_69m@ajou.ac.kr	010-9033-9313
+201870500	Emily	Walker	Staff	Female	0	Department of Software and Computer Engineering	1993-05-06	emily_93w@ajou.ac.kr	010-7388-7245
+201570501	Joonwoo	Choi	Professor	Male	2	Department of Digital Media	1990-05-05	joonwoo_90c@ajou.ac.kr	010-1304-6464
+199370502	David	Walker	Staff	Male	0	Department of Software and Computer Engineering	1968-08-23	david_68w@ajou.ac.kr	010-6807-5864
+201370503	Jason	Cho	Staff	Male	2	Department of Digital Media	1988-04-26	jason_88c@ajou.ac.kr	010-8574-4919
+201170504	Laura	Choi	Professor	Female	3	Department of Military Digital Convergence	1986-08-15	laura_86c@ajou.ac.kr	010-2025-0805
+200970505	Edward	Lee	Professor	Male	3	Department of Military Digital Convergence	1984-05-07	edward_84l@ajou.ac.kr	010-6258-2454
+201170506	Amanda	Walker	Staff	Female	1	Department of Cyber Security	1986-02-28	amanda_86w@ajou.ac.kr	010-6965-2641
+199770507	Jiyoo	Williams	Professor	Female	4	Department of Applied Artificial Intelligence	1972-09-13	jiyoo_72w@ajou.ac.kr	010-4250-2987
+201670508	Joonwoo	Rochette	Staff	Male	0	Department of Software and Computer Engineering	1991-02-07	joonwoo_91r@ajou.ac.kr	010-4318-3460
+200670509	Ashley	Martin	TA	Female	2	Department of Digital Media	1981-01-27	ashley_81m@ajou.ac.kr	010-3564-5801
+201170510	Timothy	Gonzalez	TA	Male	3	Department of Military Digital Convergence	1986-09-13	timothy_86g@ajou.ac.kr	010-4060-2700
+199970511	Jiwoo	Harris	Staff	Female	0	Department of Software and Computer Engineering	1974-08-20	jiwoo_74h@ajou.ac.kr	010-3906-3367
+199370512	David	Nguyen	Staff	Male	4	Department of Applied Artificial Intelligence	1968-08-20	david_68n@ajou.ac.kr	010-1138-4744
+200370513	Edward	Martinez	TA	Male	3	Department of Military Digital Convergence	1978-12-20	edward_78m@ajou.ac.kr	010-3293-3672
+200070514	Patricia	Martin	Staff	Female	4	Department of Applied Artificial Intelligence	1975-01-04	patricia_75m@ajou.ac.kr	010-0919-7871
+201570515	Sandra	Min	Professor	Female	4	Department of Applied Artificial Intelligence	1990-05-19	sandra_90m@ajou.ac.kr	010-3849-6771
+199170516	Dohyun	Park	Professor	Male	2	Department of Digital Media	1966-08-13	dohyun_66p@ajou.ac.kr	010-9512-7193
+200570517	Dorothy	Rochette	Staff	Female	4	Department of Applied Artificial Intelligence	1980-02-20	dorothy_80r@ajou.ac.kr	010-6530-9922
+200470518	Christopher	Dereskeviciute	Staff	Male	2	Department of Digital Media	1979-06-20	christopher_79d@ajou.ac.kr	010-2167-3670
+199770519	Mark	Hernandez	Staff	Male	1	Department of Cyber Security	1972-06-05	mark_72h@ajou.ac.kr	010-3132-3456
+201270520	Joshua	Bottier	TA	Male	0	Department of Software and Computer Engineering	1987-02-23	joshua_87b@ajou.ac.kr	010-2659-9958
+199070521	Sua	Sim	Staff	Female	4	Department of Applied Artificial Intelligence	1965-11-02	sua_65s@ajou.ac.kr	010-1356-3485
+199870522	Matthew	Williams	Professor	Male	4	Department of Applied Artificial Intelligence	1973-09-10	matthew_73w@ajou.ac.kr	010-0951-0722
+200970523	Mark	Taylor	Professor	Male	3	Department of Military Digital Convergence	1984-07-21	mark_84t@ajou.ac.kr	010-8442-1716
+199470524	Seojoon	Wilson	Professor	Male	0	Department of Software and Computer Engineering	1969-10-05	seojoon_69w@ajou.ac.kr	010-8464-2351
+199970525	Linda	Kim	Staff	Female	3	Department of Military Digital Convergence	1974-04-17	linda_74k@ajou.ac.kr	010-1325-9058
+199970526	Christopher	Cho	TA	Male	1	Department of Cyber Security	1974-11-25	christopher_74c@ajou.ac.kr	010-4960-2269
+200370527	Seojoon	Hernandez	Professor	Male	2	Department of Digital Media	1978-07-05	seojoon_78h@ajou.ac.kr	010-1543-2030
+199670528	Laura	Han	Professor	Female	0	Department of Software and Computer Engineering	1971-03-20	laura_71h@ajou.ac.kr	010-5033-7730
+200970529	Jia	Dereskeviciute	TA	Female	2	Department of Digital Media	1984-10-19	jia_84d@ajou.ac.kr	010-2095-3288
+201170530	Joonseo	Hong	Staff	Male	3	Department of Military Digital Convergence	1986-05-30	joonseo_86h@ajou.ac.kr	010-0643-6035
+199570531	Stephanie	Dereskeviciute	Staff	Female	4	Department of Applied Artificial Intelligence	1970-10-27	stephanie_70d@ajou.ac.kr	010-6096-0403
+200870532	Amanda	Lopez	TA	Female	3	Department of Military Digital Convergence	1983-01-15	amanda_83l@ajou.ac.kr	010-0699-0699
+201570533	Hayoon	Thompson	TA	Female	4	Department of Applied Artificial Intelligence	1990-01-14	hayoon_90t@ajou.ac.kr	010-5838-7814
+200170534	Carol	Jeong	Staff	Female	4	Department of Applied Artificial Intelligence	1976-09-08	carol_76j@ajou.ac.kr	010-5857-6367
+200770535	Jiwoo	Hong	Staff	Female	1	Department of Cyber Security	1982-01-22	jiwoo_82h@ajou.ac.kr	010-6764-1938
+200170536	Karen	Rodriguez	Professor	Female	3	Department of Military Digital Convergence	1976-09-22	karen_76r@ajou.ac.kr	010-4233-2597
+200270537	George	Martin	Professor	Male	0	Department of Software and Computer Engineering	1977-10-28	george_77m@ajou.ac.kr	010-0018-4069
+199170538	Barbara	Martinez	Professor	Female	1	Department of Cyber Security	1966-01-05	barbara_66m@ajou.ac.kr	010-0867-9034
+199470539	Seojoon	White	Staff	Male	3	Department of Military Digital Convergence	1969-09-07	seojoon_69w@ajou.ac.kr	010-0253-0424
+199570540	Geonwoo	Min	Staff	Male	3	Department of Military Digital Convergence	1970-11-01	geonwoo_70m@ajou.ac.kr	010-1066-8633
+199370541	Mark	Martinez	Professor	Male	1	Department of Cyber Security	1968-05-12	mark_68m@ajou.ac.kr	010-1885-5102
+200470542	Yejoon	Robinson	Staff	Male	4	Department of Applied Artificial Intelligence	1979-01-13	yejoon_79r@ajou.ac.kr	010-7112-1884
+199370543	Sandra	Hall	TA	Female	4	Department of Applied Artificial Intelligence	1968-05-02	sandra_68h@ajou.ac.kr	010-7468-4157
+201170544	Sharon	Taylor	Staff	Female	3	Department of Military Digital Convergence	1986-09-05	sharon_86t@ajou.ac.kr	010-6389-5554
+201670545	Donald	Brown	Staff	Male	0	Department of Software and Computer Engineering	1991-07-01	donald_91b@ajou.ac.kr	010-2602-2636
+201270546	Joonwoo	Jackson	Professor	Male	3	Department of Military Digital Convergence	1987-05-18	joonwoo_87j@ajou.ac.kr	010-7642-9767
+199470547	Kimberly	Smith	Professor	Female	2	Department of Digital Media	1969-08-07	kimberly_69s@ajou.ac.kr	010-2354-7398
+201870548	Seohyun	Martin	Staff	Female	1	Department of Cyber Security	1993-01-11	seohyun_93m@ajou.ac.kr	010-9708-4325
+201670549	Joonseo	Jeong	Staff	Male	1	Department of Cyber Security	1991-05-08	joonseo_91j@ajou.ac.kr	010-3272-0998
+199670550	Emily	Heo	TA	Female	3	Department of Military Digital Convergence	1971-05-08	emily_71h@ajou.ac.kr	010-3229-2871
+200470551	Betty	Williams	TA	Female	4	Department of Applied Artificial Intelligence	1979-12-04	betty_79w@ajou.ac.kr	010-7149-7885
+201370552	Anthony	Wilson	Staff	Male	0	Department of Software and Computer Engineering	1988-05-28	anthony_88w@ajou.ac.kr	010-9890-4914
+199070553	Donald	Kang	Staff	Male	4	Department of Applied Artificial Intelligence	1965-05-16	donald_65k@ajou.ac.kr	010-8037-4757
+201170554	Rebecca	Choi	Staff	Female	2	Department of Digital Media	1986-10-11	rebecca_86c@ajou.ac.kr	010-2383-6104
+200470555	Dorothy	Garcia	Staff	Female	1	Department of Cyber Security	1979-07-12	dorothy_79g@ajou.ac.kr	010-8605-9518
+201570556	Deborah	Rochette	Staff	Female	2	Department of Digital Media	1990-03-03	deborah_90r@ajou.ac.kr	010-3401-1739
+200070557	Chaewon	Davis	TA	Female	1	Department of Cyber Security	1975-05-06	chaewon_75d@ajou.ac.kr	010-6791-1804
+201770558	Siu	Thompson	TA	Male	3	Department of Military Digital Convergence	1992-09-01	siu_92t@ajou.ac.kr	010-4182-0504
+200370559	Robert	Hall	Professor	Male	4	Department of Applied Artificial Intelligence	1978-03-23	robert_78h@ajou.ac.kr	010-0926-7875
+200470560	Karen	Rochette	TA	Female	2	Department of Digital Media	1979-02-09	karen_79r@ajou.ac.kr	010-7565-2260
+201070561	Barbara	Hernandez	Staff	Female	1	Department of Cyber Security	1985-09-01	barbara_85h@ajou.ac.kr	010-2082-6801
+201570562	Sua	Rodriguez	Professor	Female	0	Department of Software and Computer Engineering	1990-03-30	sua_90r@ajou.ac.kr	010-9735-6575
+200870563	Donald	Lee	TA	Male	3	Department of Military Digital Convergence	1983-05-25	donald_83l@ajou.ac.kr	010-8059-9889
+199670564	Richard	Martin	TA	Male	0	Department of Software and Computer Engineering	1971-08-12	richard_71m@ajou.ac.kr	010-5240-4051
+199970565	Seoyeon	Jeong	Staff	Female	1	Department of Cyber Security	1974-06-08	seoyeon_74j@ajou.ac.kr	010-6219-5697
+200970566	Doyoon	Taylor	Professor	Male	4	Department of Applied Artificial Intelligence	1984-05-12	doyoon_84t@ajou.ac.kr	010-1656-7327
+199870567	Timothy	Walker	TA	Male	0	Department of Software and Computer Engineering	1973-02-20	timothy_73w@ajou.ac.kr	010-3372-8849
+200870568	Seojoon	White	TA	Male	3	Department of Military Digital Convergence	1983-08-13	seojoon_83w@ajou.ac.kr	010-0559-0215
+200270569	Jia	Jeong	TA	Female	2	Department of Digital Media	1977-10-12	jia_77j@ajou.ac.kr	010-6234-8313
+199270570	Brian	Rodriguez	Staff	Male	4	Department of Applied Artificial Intelligence	1967-05-18	brian_67r@ajou.ac.kr	010-6902-1246
+201870571	Seoyeon	Johnson	Professor	Female	0	Department of Software and Computer Engineering	1993-02-06	seoyeon_93j@ajou.ac.kr	010-0740-9920
+200270572	Donald	Kang	Professor	Male	2	Department of Digital Media	1977-10-13	donald_77k@ajou.ac.kr	010-5044-2224
+199270573	Ronald	Perez	Staff	Male	3	Department of Military Digital Convergence	1967-12-12	ronald_67p@ajou.ac.kr	010-4266-1579
+201270574	Joseph	Williams	Professor	Male	0	Department of Software and Computer Engineering	1987-11-15	joseph_87w@ajou.ac.kr	010-4871-4549
+199270575	Seohyun	Harris	Staff	Female	0	Department of Software and Computer Engineering	1967-10-17	seohyun_67h@ajou.ac.kr	010-3614-1543
+201270576	Jason	Thompson	TA	Male	2	Department of Digital Media	1987-09-10	jason_87t@ajou.ac.kr	010-6046-1262
+201170577	Deborah	Lopez	Staff	Female	2	Department of Digital Media	1986-12-01	deborah_86l@ajou.ac.kr	010-6682-1673
+200070578	Kimberly	Kang	Professor	Female	0	Department of Software and Computer Engineering	1975-09-28	kimberly_75k@ajou.ac.kr	010-1203-5435
+200870579	Charles	Song	TA	Male	0	Department of Software and Computer Engineering	1983-09-14	charles_83s@ajou.ac.kr	010-4853-2816
+201070580	Michael	Williams	TA	Male	2	Department of Digital Media	1985-10-01	michael_85w@ajou.ac.kr	010-5813-7464
+199770581	Anthony	Sim	Professor	Male	4	Department of Applied Artificial Intelligence	1972-08-11	anthony_72s@ajou.ac.kr	010-3295-1552
+201470582	Sarah	Rochette	TA	Female	0	Department of Software and Computer Engineering	1989-07-13	sarah_89r@ajou.ac.kr	010-9251-8811
+201370583	Karen	Jones	TA	Female	4	Department of Applied Artificial Intelligence	1988-02-15	karen_88j@ajou.ac.kr	010-2058-3078
+200470584	Mary	Thompson	Staff	Female	1	Department of Cyber Security	1979-10-11	mary_79t@ajou.ac.kr	010-2442-1493
+199570585	John	Lopez	Professor	Male	2	Department of Digital Media	1970-12-06	john_70l@ajou.ac.kr	010-6372-6332
+200670586	Patricia	Jackson	TA	Female	4	Department of Applied Artificial Intelligence	1981-02-13	patricia_81j@ajou.ac.kr	010-2723-4165
+201670587	Elizabeth	Bacha	TA	Female	0	Department of Software and Computer Engineering	1991-07-09	elizabeth_91b@ajou.ac.kr	010-4874-9045
+201370588	Doyoon	Bottier	Staff	Male	1	Department of Cyber Security	1988-02-08	doyoon_88b@ajou.ac.kr	010-3026-5309
+200170589	Jia	Thomas	Professor	Female	4	Department of Applied Artificial Intelligence	1976-03-31	jia_76t@ajou.ac.kr	010-1188-0759
+199570590	Jia	Bottier	Staff	Female	1	Department of Cyber Security	1970-08-17	jia_70b@ajou.ac.kr	010-3625-1279
+199670591	Anthony	ClarkLewis	Professor	Male	3	Department of Military Digital Convergence	1971-05-20	anthony_71c@ajou.ac.kr	010-6239-5189
+199470592	Geonwoo	Williams	Staff	Male	1	Department of Cyber Security	1969-08-12	geonwoo_69w@ajou.ac.kr	010-4836-9629
+200970593	Jennifer	Davis	Professor	Female	1	Department of Cyber Security	1984-08-27	jennifer_84d@ajou.ac.kr	010-9941-7637
+201470594	George	Gonzalez	Staff	Male	3	Department of Military Digital Convergence	1989-12-19	george_89g@ajou.ac.kr	010-4616-6679
+200170595	Andrew	Jones	Professor	Male	3	Department of Military Digital Convergence	1976-02-29	andrew_76j@ajou.ac.kr	010-2464-9808
+199770596	Thomas	Garcia	Professor	Male	0	Department of Software and Computer Engineering	1972-06-26	thomas_72g@ajou.ac.kr	010-1511-8513
+200470597	Timothy	White	TA	Male	0	Department of Software and Computer Engineering	1979-08-01	timothy_79w@ajou.ac.kr	010-9451-1471
+200970598	Jiyoo	Rochette	Staff	Female	4	Department of Applied Artificial Intelligence	1984-01-16	jiyoo_84r@ajou.ac.kr	010-2703-5920
+199970599	Dohyun	Martinez	Professor	Male	1	Department of Cyber Security	1974-05-27	dohyun_74m@ajou.ac.kr	010-9261-2448
+199370600	Jia	Miller	Staff	Female	3	Department of Military Digital Convergence	1968-08-16	jia_68m@ajou.ac.kr	010-1919-1216
+199970601	Joseph	Park	Professor	Male	4	Department of Applied Artificial Intelligence	1974-06-18	joseph_74p@ajou.ac.kr	010-3072-2207
+200570602	Margaret	Cho	Professor	Female	2	Department of Digital Media	1980-11-08	margaret_80c@ajou.ac.kr	010-2209-8190
+200370603	Hajoon	Miller	Staff	Male	1	Department of Cyber Security	1978-03-28	hajoon_78m@ajou.ac.kr	010-3597-5122
+201470604	Michelle	ClarkLewis	TA	Female	0	Department of Software and Computer Engineering	1989-12-24	michelle_89c@ajou.ac.kr	010-7777-6182
+200470605	Carol	Smith	TA	Female	1	Department of Cyber Security	1979-07-28	carol_79s@ajou.ac.kr	010-4123-6464
+199870606	Jimin	Davis	TA	Female	0	Department of Software and Computer Engineering	1973-07-12	jimin_73d@ajou.ac.kr	010-6698-6077
+201670607	Anthony	Dereskeviciute	Staff	Male	4	Department of Applied Artificial Intelligence	1991-02-26	anthony_91d@ajou.ac.kr	010-0914-2323
+200670608	Michelle	Martinez	Staff	Female	1	Department of Cyber Security	1981-02-28	michelle_81m@ajou.ac.kr	010-8682-0376
+201770609	Andrew	Ha	Professor	Male	1	Department of Cyber Security	1992-07-19	andrew_92h@ajou.ac.kr	010-5163-5162
+201770610	Jennifer	Dereskeviciute	Professor	Female	3	Department of Military Digital Convergence	1992-02-06	jennifer_92d@ajou.ac.kr	010-2989-1988
+199270611	Seoyeon	Johnson	Professor	Female	4	Department of Applied Artificial Intelligence	1967-07-31	seoyeon_67j@ajou.ac.kr	010-1308-3708
+201470612	Thomas	Martinez	Professor	Male	1	Department of Cyber Security	1989-01-05	thomas_89m@ajou.ac.kr	010-2133-5149
+200870613	Kenneth	Miller	Professor	Male	0	Department of Software and Computer Engineering	1983-01-01	kenneth_83m@ajou.ac.kr	010-3026-2277
+200970614	James	Rho	Staff	Male	2	Department of Digital Media	1984-03-30	james_84r@ajou.ac.kr	010-1302-4605
+199570615	Jennifer	ClarkLewis	Staff	Female	3	Department of Military Digital Convergence	1970-01-01	jennifer_70c@ajou.ac.kr	010-7023-6988
+201470616	Robert	ClarkLewis	Staff	Male	0	Department of Software and Computer Engineering	1989-08-29	robert_89c@ajou.ac.kr	010-9193-0420
+201470617	Chaewon	Hall	Staff	Female	3	Department of Military Digital Convergence	1989-12-27	chaewon_89h@ajou.ac.kr	010-3497-4414
+200370618	Anthony	Wilson	Professor	Male	4	Department of Applied Artificial Intelligence	1978-05-18	anthony_78w@ajou.ac.kr	010-4272-1117
+200870619	Joshua	Perez	Professor	Male	4	Department of Applied Artificial Intelligence	1983-01-11	joshua_83p@ajou.ac.kr	010-5061-0576
+199670620	Joshua	Lee	Staff	Male	2	Department of Digital Media	1971-08-22	joshua_71l@ajou.ac.kr	010-1707-1973
+199570621	Barbara	Dereskeviciute	TA	Female	3	Department of Military Digital Convergence	1970-11-28	barbara_70d@ajou.ac.kr	010-1112-9882
+201370622	Minseo	Lopez	Staff	Female	3	Department of Military Digital Convergence	1988-01-23	minseo_88l@ajou.ac.kr	010-5203-4062
+199870623	Seoyoon	Rodriguez	Professor	Female	2	Department of Digital Media	1973-09-27	seoyoon_73r@ajou.ac.kr	010-3715-6506
+200470624	Rebecca	Min	TA	Female	2	Department of Digital Media	1979-01-17	rebecca_79m@ajou.ac.kr	010-2520-3730
+200470625	James	Nguyen	Professor	Male	4	Department of Applied Artificial Intelligence	1979-05-22	james_79n@ajou.ac.kr	010-3339-0012
+200170626	Jessica	Ha	Professor	Female	3	Department of Military Digital Convergence	1976-01-15	jessica_76h@ajou.ac.kr	010-4337-6080
+199370627	Cynthia	Jones	Staff	Female	0	Department of Software and Computer Engineering	1968-10-24	cynthia_68j@ajou.ac.kr	010-2369-0667
+201970628	Sharon	Sim	Staff	Female	2	Department of Digital Media	1994-11-29	sharon_94s@ajou.ac.kr	010-0757-7991
+200470629	Susan	ClarkLewis	Professor	Female	0	Department of Software and Computer Engineering	1979-04-17	susan_79c@ajou.ac.kr	010-7605-5822
+200270630	Stephanie	Johnson	Professor	Female	2	Department of Digital Media	1977-07-06	stephanie_77j@ajou.ac.kr	010-8880-9995
+201670631	Karen	Anderson	TA	Female	0	Department of Software and Computer Engineering	1991-11-10	karen_91a@ajou.ac.kr	010-8147-0667
+200370632	Andrew	Han	Professor	Male	0	Department of Software and Computer Engineering	1978-03-19	andrew_78h@ajou.ac.kr	010-6561-0881
+200570633	Laura	Robinson	TA	Female	0	Department of Software and Computer Engineering	1980-04-30	laura_80r@ajou.ac.kr	010-2086-9915
+199570634	Anthony	Moore	TA	Male	4	Department of Applied Artificial Intelligence	1970-05-19	anthony_70m@ajou.ac.kr	010-8538-2566
+200470635	Sua	Han	Staff	Female	4	Department of Applied Artificial Intelligence	1979-10-28	sua_79h@ajou.ac.kr	010-0526-3736
+200870636	Ryan	Rochette	Staff	Male	3	Department of Military Digital Convergence	1983-08-08	ryan_83r@ajou.ac.kr	010-1693-0893
+199470637	Haeun	Jones	TA	Female	4	Department of Applied Artificial Intelligence	1969-09-27	haeun_69j@ajou.ac.kr	010-2696-1099
+201770638	Melissa	Wilson	TA	Female	1	Department of Cyber Security	1992-01-25	melissa_92w@ajou.ac.kr	010-9190-2719
+201370639	Steven	Wilson	Staff	Male	0	Department of Software and Computer Engineering	1988-10-02	steven_88w@ajou.ac.kr	010-1058-7200
+200570640	Kevin	Williams	Professor	Male	2	Department of Digital Media	1980-10-23	kevin_80w@ajou.ac.kr	010-5605-8805
+201570641	Michael	Kang	TA	Male	1	Department of Cyber Security	1990-10-06	michael_90k@ajou.ac.kr	010-2890-8400
+200270642	Jessica	Jones	TA	Female	1	Department of Cyber Security	1977-03-03	jessica_77j@ajou.ac.kr	010-8854-6682
+200570643	Jiwoo	Han	Staff	Female	4	Department of Applied Artificial Intelligence	1980-09-24	jiwoo_80h@ajou.ac.kr	010-7967-9413
+201170644	Linda	Yu	TA	Female	3	Department of Military Digital Convergence	1986-08-15	linda_86y@ajou.ac.kr	010-0461-6224
+199570645	Michelle	Hong	TA	Female	0	Department of Software and Computer Engineering	1970-11-12	michelle_70h@ajou.ac.kr	010-6559-3984
+199970646	Joonwoo	Walker	Professor	Male	3	Department of Military Digital Convergence	1974-10-28	joonwoo_74w@ajou.ac.kr	010-9124-3361
+201070647	John	Heo	Professor	Male	4	Department of Applied Artificial Intelligence	1985-10-16	john_85h@ajou.ac.kr	010-3209-4657
+201570648	Nancy	Bottier	TA	Female	0	Department of Software and Computer Engineering	1990-08-12	nancy_90b@ajou.ac.kr	010-2816-1856
+201070649	Edward	Garcia	Staff	Male	2	Department of Digital Media	1985-11-11	edward_85g@ajou.ac.kr	010-8422-8208
+201070650	Jimin	Min	TA	Female	0	Department of Software and Computer Engineering	1985-12-12	jimin_85m@ajou.ac.kr	010-2628-7954
+201470651	Donna	Rho	Staff	Female	2	Department of Digital Media	1989-10-19	donna_89r@ajou.ac.kr	010-9085-8440
+200870652	Lisa	Hall	Professor	Female	1	Department of Cyber Security	1983-07-27	lisa_83h@ajou.ac.kr	010-8969-2595
+201670653	Minseo	Walker	TA	Female	2	Department of Digital Media	1991-10-22	minseo_91w@ajou.ac.kr	010-6819-8891
+199470654	Kimberly	Hall	Staff	Female	1	Department of Cyber Security	1969-05-06	kimberly_69h@ajou.ac.kr	010-4334-2318
+199770655	Edward	Harris	Staff	Male	2	Department of Digital Media	1972-03-15	edward_72h@ajou.ac.kr	010-1858-9096
+200970656	Jessica	Hong	Professor	Female	3	Department of Military Digital Convergence	1984-08-09	jessica_84h@ajou.ac.kr	010-6978-4032
+201270657	Dohyun	Heo	TA	Male	1	Department of Cyber Security	1987-02-15	dohyun_87h@ajou.ac.kr	010-4350-1843
+199070658	Betty	Wilson	Professor	Female	3	Department of Military Digital Convergence	1965-04-23	betty_65w@ajou.ac.kr	010-6443-7765
+200770659	Thomas	Rho	Professor	Male	4	Department of Applied Artificial Intelligence	1982-11-10	thomas_82r@ajou.ac.kr	010-3238-5325
+200570660	Elizabeth	Kim	Staff	Female	3	Department of Military Digital Convergence	1980-09-07	elizabeth_80k@ajou.ac.kr	010-4422-6749
+200670661	Haeun	Bacha	TA	Female	0	Department of Software and Computer Engineering	1981-07-03	haeun_81b@ajou.ac.kr	010-2988-3103
+200870662	Sandra	Bottier	Staff	Female	2	Department of Digital Media	1983-08-23	sandra_83b@ajou.ac.kr	010-2104-0633
+201270663	Jason	Min	Staff	Male	0	Department of Software and Computer Engineering	1987-03-17	jason_87m@ajou.ac.kr	010-4071-3176
+201470664	Richard	Davis	TA	Male	4	Department of Applied Artificial Intelligence	1989-12-12	richard_89d@ajou.ac.kr	010-7862-4936
+201170665	Daniel	Dereskeviciute	TA	Male	2	Department of Digital Media	1986-07-05	daniel_86d@ajou.ac.kr	010-2621-0909
+200370666	Seoyoon	Miller	Professor	Female	4	Department of Applied Artificial Intelligence	1978-02-26	seoyoon_78m@ajou.ac.kr	010-8223-3128
+199070667	Susan	Perez	TA	Female	1	Department of Cyber Security	1965-11-23	susan_65p@ajou.ac.kr	010-7557-9374
+201770668	Joonwoo	Williams	TA	Male	4	Department of Applied Artificial Intelligence	1992-11-22	joonwoo_92w@ajou.ac.kr	010-5348-6301
+201670669	Timothy	Robinson	Staff	Male	4	Department of Applied Artificial Intelligence	1991-06-01	timothy_91r@ajou.ac.kr	010-3793-4264
+200470670	Donald	Taylor	TA	Male	0	Department of Software and Computer Engineering	1979-05-30	donald_79t@ajou.ac.kr	010-5714-2514
+201670671	Edward	Jeong	TA	Male	4	Department of Applied Artificial Intelligence	1991-01-08	edward_91j@ajou.ac.kr	010-8384-5725
+200270672	Yejoon	Han	Staff	Male	3	Department of Military Digital Convergence	1977-04-16	yejoon_77h@ajou.ac.kr	010-0443-6585
+201370673	Yejoon	Ha	Professor	Male	2	Department of Digital Media	1988-03-21	yejoon_88h@ajou.ac.kr	010-3707-8462
+201170674	Anthony	Harris	Staff	Male	0	Department of Software and Computer Engineering	1986-04-02	anthony_86h@ajou.ac.kr	010-6746-9023
+199770675	Jessica	Heo	TA	Female	2	Department of Digital Media	1972-07-24	jessica_72h@ajou.ac.kr	010-8543-2883
+201070676	George	Bottier	Professor	Male	3	Department of Military Digital Convergence	1985-09-04	george_85b@ajou.ac.kr	010-5707-2732
+199670677	Jiho	Thompson	Professor	Male	3	Department of Military Digital Convergence	1971-08-20	jiho_71t@ajou.ac.kr	010-3926-1088
+201070678	Melissa	Min	Professor	Female	3	Department of Military Digital Convergence	1985-07-18	melissa_85m@ajou.ac.kr	010-2017-6683
+200970679	Siu	Song	Staff	Male	4	Department of Applied Artificial Intelligence	1984-01-23	siu_84s@ajou.ac.kr	010-0323-0581
+199070680	Jihoo	Kim	Professor	Male	3	Department of Military Digital Convergence	1965-07-29	jihoo_65k@ajou.ac.kr	010-3753-3098
+199370681	Sandra	Bottier	TA	Female	1	Department of Cyber Security	1968-12-24	sandra_68b@ajou.ac.kr	010-8745-0076
+201770682	Seoyeon	Lopez	Staff	Female	3	Department of Military Digital Convergence	1992-05-17	seoyeon_92l@ajou.ac.kr	010-6052-2289
+199870683	Charles	Walker	TA	Male	0	Department of Software and Computer Engineering	1973-06-29	charles_73w@ajou.ac.kr	010-0489-7115
+201770684	Carol	Harris	Staff	Female	2	Department of Digital Media	1992-08-21	carol_92h@ajou.ac.kr	010-3606-5264
+199570685	Hayoon	Hong	Professor	Female	1	Department of Cyber Security	1970-01-10	hayoon_70h@ajou.ac.kr	010-1781-3431
+199570686	Betty	Robinson	TA	Female	4	Department of Applied Artificial Intelligence	1970-04-30	betty_70r@ajou.ac.kr	010-8046-5111
+200070687	Daniel	Ha	Professor	Male	3	Department of Military Digital Convergence	1975-02-08	daniel_75h@ajou.ac.kr	010-7596-0152
+201370688	James	Lee	Professor	Male	4	Department of Applied Artificial Intelligence	1988-09-18	james_88l@ajou.ac.kr	010-8231-5433
+201570689	Michael	Dereskeviciute	Professor	Male	4	Department of Applied Artificial Intelligence	1990-06-01	michael_90d@ajou.ac.kr	010-0284-5368
+200370690	Jessica	Williams	Staff	Female	0	Department of Software and Computer Engineering	1978-08-07	jessica_78w@ajou.ac.kr	010-7366-4509
+201870691	Kevin	Martinez	TA	Male	3	Department of Military Digital Convergence	1993-06-16	kevin_93m@ajou.ac.kr	010-3425-6976
+200370692	Amanda	Song	Professor	Female	2	Department of Digital Media	1978-09-21	amanda_78s@ajou.ac.kr	010-2922-6790
+200970693	Seohyun	Rodriguez	TA	Female	1	Department of Cyber Security	1984-09-04	seohyun_84r@ajou.ac.kr	010-6686-0604
+199770694	Mark	Moore	TA	Male	4	Department of Applied Artificial Intelligence	1972-06-17	mark_72m@ajou.ac.kr	010-1115-1872
+200470695	Deborah	Lopez	TA	Female	4	Department of Applied Artificial Intelligence	1979-03-24	deborah_79l@ajou.ac.kr	010-2803-7346
+200270696	Jihoo	Gonzalez	Staff	Male	0	Department of Software and Computer Engineering	1977-05-13	jihoo_77g@ajou.ac.kr	010-0226-0490
+200970697	Patricia	Walker	TA	Female	4	Department of Applied Artificial Intelligence	1984-03-05	patricia_84w@ajou.ac.kr	010-0124-1120
+201970698	Linda	Wilson	Staff	Female	0	Department of Software and Computer Engineering	1994-11-13	linda_94w@ajou.ac.kr	010-7870-9082
+200770699	Hajoon	Martinez	TA	Male	3	Department of Military Digital Convergence	1982-10-07	hajoon_82m@ajou.ac.kr	010-6195-9183
+200870700	Donald	Cho	Professor	Male	1	Department of Cyber Security	1983-03-06	donald_83c@ajou.ac.kr	010-4938-9446
+200070701	Betty	Miller	Staff	Female	4	Department of Applied Artificial Intelligence	1975-02-12	betty_75m@ajou.ac.kr	010-6810-4354
+199870702	Siu	Dereskeviciute	Staff	Male	1	Department of Cyber Security	1973-11-09	siu_73d@ajou.ac.kr	010-6531-6529
+201070703	Jia	ClarkLewis	Staff	Female	3	Department of Military Digital Convergence	1985-06-17	jia_85c@ajou.ac.kr	010-5108-4696
+200370704	Seohyun	Martin	Staff	Female	0	Department of Software and Computer Engineering	1978-05-14	seohyun_78m@ajou.ac.kr	010-0230-6331
+199670705	Ashley	Nguyen	TA	Female	0	Department of Software and Computer Engineering	1971-06-10	ashley_71n@ajou.ac.kr	010-8036-3869
+199870706	George	Nguyen	TA	Male	1	Department of Cyber Security	1973-09-19	george_73n@ajou.ac.kr	010-7831-6706
+199770707	Jia	Hong	Staff	Female	0	Department of Software and Computer Engineering	1972-01-01	jia_72h@ajou.ac.kr	010-7794-2908
+201270708	Dohyun	Garcia	Professor	Male	2	Department of Digital Media	1987-03-04	dohyun_87g@ajou.ac.kr	010-0384-1136
+200470709	Seoyeon	White	Professor	Female	2	Department of Digital Media	1979-11-17	seoyeon_79w@ajou.ac.kr	010-2319-5002
+201970710	Joseph	Kang	TA	Male	4	Department of Applied Artificial Intelligence	1994-07-08	joseph_94k@ajou.ac.kr	010-1923-5929
+201770711	Hayoon	Robinson	Staff	Female	3	Department of Military Digital Convergence	1992-03-20	hayoon_92r@ajou.ac.kr	010-4382-2241
+199670712	Haeun	Bottier	TA	Female	2	Department of Digital Media	1971-09-05	haeun_71b@ajou.ac.kr	010-1637-9370
+200170713	Sharon	Rho	Professor	Female	4	Department of Applied Artificial Intelligence	1976-04-30	sharon_76r@ajou.ac.kr	010-3652-6839
+199970714	Jimin	Garcia	Staff	Female	3	Department of Military Digital Convergence	1974-12-02	jimin_74g@ajou.ac.kr	010-5531-6729
+199570715	Sarah	Johnson	Staff	Female	0	Department of Software and Computer Engineering	1970-02-24	sarah_70j@ajou.ac.kr	010-9493-6074
+199770716	Mark	Heo	TA	Male	1	Department of Cyber Security	1972-02-29	mark_72h@ajou.ac.kr	010-3082-1397
+199070717	Seojoon	Wilson	Professor	Male	1	Department of Cyber Security	1965-05-03	seojoon_65w@ajou.ac.kr	010-7445-3566
+201370718	Paul	White	TA	Male	0	Department of Software and Computer Engineering	1988-01-31	paul_88w@ajou.ac.kr	010-4353-9739
+201070719	Patricia	Rochette	Staff	Female	1	Department of Cyber Security	1985-05-26	patricia_85r@ajou.ac.kr	010-2107-0559
+200870720	Robert	Gonzalez	Staff	Male	2	Department of Digital Media	1983-04-04	robert_83g@ajou.ac.kr	010-4534-7141
+201770721	Kevin	Bottier	TA	Male	0	Department of Software and Computer Engineering	1992-11-12	kevin_92b@ajou.ac.kr	010-9245-2844
+200170722	Jessica	Moore	Staff	Female	1	Department of Cyber Security	1976-12-10	jessica_76m@ajou.ac.kr	010-1882-8150
+200870723	Anthony	Martin	Professor	Male	3	Department of Military Digital Convergence	1983-09-28	anthony_83m@ajou.ac.kr	010-9154-1229
+200670724	Siu	Ha	Professor	Male	1	Department of Cyber Security	1981-10-26	siu_81h@ajou.ac.kr	010-2043-7895
+199870725	Jennifer	Miller	Staff	Female	2	Department of Digital Media	1973-09-11	jennifer_73m@ajou.ac.kr	010-4344-8272
+201970726	Joseph	Perez	Professor	Male	4	Department of Applied Artificial Intelligence	1994-04-10	joseph_94p@ajou.ac.kr	010-1863-1259
+199470727	Sandra	Robinson	Staff	Female	4	Department of Applied Artificial Intelligence	1969-09-11	sandra_69r@ajou.ac.kr	010-3499-5619
+199570728	Joseph	Rho	TA	Male	3	Department of Military Digital Convergence	1970-03-27	joseph_70r@ajou.ac.kr	010-8164-5579
+199470729	John	Smith	Professor	Male	2	Department of Digital Media	1969-09-09	john_69s@ajou.ac.kr	010-3209-6293
+201570730	Jennifer	Perez	Professor	Female	4	Department of Applied Artificial Intelligence	1990-08-16	jennifer_90p@ajou.ac.kr	010-9006-8913
+201270731	Linda	Williams	Professor	Female	2	Department of Digital Media	1987-12-01	linda_87w@ajou.ac.kr	010-0314-6064
+199070732	Robert	Smith	TA	Male	3	Department of Military Digital Convergence	1965-01-09	robert_65s@ajou.ac.kr	010-7736-4533
+200870733	Jason	Hong	TA	Male	1	Department of Cyber Security	1983-12-10	jason_83h@ajou.ac.kr	010-9978-0391
+199870734	Haeun	Park	TA	Female	2	Department of Digital Media	1973-12-03	haeun_73p@ajou.ac.kr	010-3724-3347
+201670735	Thomas	Taylor	TA	Male	4	Department of Applied Artificial Intelligence	1991-03-25	thomas_91t@ajou.ac.kr	010-3930-6144
+201770736	Joowon	Martinez	Professor	Male	0	Department of Software and Computer Engineering	1992-12-06	joowon_92m@ajou.ac.kr	010-3668-1624
+200170737	Geonwoo	Brown	Staff	Male	2	Department of Digital Media	1976-11-18	geonwoo_76b@ajou.ac.kr	010-3573-9343
+199570738	Jihoo	Hernandez	TA	Male	1	Department of Cyber Security	1970-09-17	jihoo_70h@ajou.ac.kr	010-2247-5568
+199470739	Rebecca	Hong	Professor	Female	4	Department of Applied Artificial Intelligence	1969-07-26	rebecca_69h@ajou.ac.kr	010-6904-7404
+201470740	Linda	Davis	TA	Female	2	Department of Digital Media	1989-06-15	linda_89d@ajou.ac.kr	010-3098-8962
+199570741	Daniel	Smith	TA	Male	2	Department of Digital Media	1970-08-03	daniel_70s@ajou.ac.kr	010-7812-6059
+200970742	Doyoon	Choi	TA	Male	0	Department of Software and Computer Engineering	1984-09-01	doyoon_84c@ajou.ac.kr	010-7709-0036
+201370743	Paul	Jeong	Professor	Male	2	Department of Digital Media	1988-03-31	paul_88j@ajou.ac.kr	010-4132-2627
+201970744	Jennifer	Brown	TA	Female	0	Department of Software and Computer Engineering	1994-07-02	jennifer_94b@ajou.ac.kr	010-0623-4663
+201670745	Kenneth	Rodriguez	Staff	Male	2	Department of Digital Media	1991-06-11	kenneth_91r@ajou.ac.kr	010-0788-9215
+200170746	Betty	Robinson	Staff	Female	0	Department of Software and Computer Engineering	1976-02-09	betty_76r@ajou.ac.kr	010-8489-3309
+200570747	Mary	Park	TA	Female	3	Department of Military Digital Convergence	1980-02-26	mary_80p@ajou.ac.kr	010-9474-4079
+200470748	Rebecca	Brown	Professor	Female	1	Department of Cyber Security	1979-09-01	rebecca_79b@ajou.ac.kr	010-4644-3095
+200370749	Jiyoo	Nguyen	Professor	Female	2	Department of Digital Media	1978-12-03	jiyoo_78n@ajou.ac.kr	010-2078-0260
+201270750	Anthony	Rho	Staff	Male	2	Department of Digital Media	1987-05-20	anthony_87r@ajou.ac.kr	010-8944-1547
+201970751	Elizabeth	Thomas	Staff	Female	4	Department of Applied Artificial Intelligence	1994-07-05	elizabeth_94t@ajou.ac.kr	010-1597-7984
+199270752	Geonwoo	Lopez	TA	Male	3	Department of Military Digital Convergence	1967-01-30	geonwoo_67l@ajou.ac.kr	010-1186-6194
+201170753	Yoonseo	Brown	Professor	Female	1	Department of Cyber Security	1986-01-25	yoonseo_86b@ajou.ac.kr	010-6276-4430
+200770754	Barbara	Harris	Staff	Female	2	Department of Digital Media	1982-06-11	barbara_82h@ajou.ac.kr	010-7815-3447
+199770755	Michelle	Jeong	Professor	Female	3	Department of Military Digital Convergence	1972-04-28	michelle_72j@ajou.ac.kr	010-5540-4038
+200470756	Ashley	Taylor	TA	Female	1	Department of Cyber Security	1979-10-03	ashley_79t@ajou.ac.kr	010-4763-5866
+199070757	Jeffrey	Garcia	Professor	Male	3	Department of Military Digital Convergence	1965-10-19	jeffrey_65g@ajou.ac.kr	010-1275-6557
+200270758	Timothy	Rho	Staff	Male	1	Department of Cyber Security	1977-01-18	timothy_77r@ajou.ac.kr	010-8377-1123
+200970759	Patricia	Wilson	TA	Female	3	Department of Military Digital Convergence	1984-01-28	patricia_84w@ajou.ac.kr	010-7737-5403
+199870760	Seoyoon	Han	Professor	Female	0	Department of Software and Computer Engineering	1973-11-18	seoyoon_73h@ajou.ac.kr	010-9992-8809
+199970761	Barbara	Thompson	TA	Female	1	Department of Cyber Security	1974-12-25	barbara_74t@ajou.ac.kr	010-6063-1516
+201470762	Doyoon	Sim	Staff	Male	1	Department of Cyber Security	1989-07-27	doyoon_89s@ajou.ac.kr	010-9317-8162
+200270763	Kimberly	Taylor	Professor	Female	4	Department of Applied Artificial Intelligence	1977-04-30	kimberly_77t@ajou.ac.kr	010-4106-6211
+200770764	Kimberly	Nguyen	Staff	Female	3	Department of Military Digital Convergence	1982-07-27	kimberly_82n@ajou.ac.kr	010-4788-4568
+199070765	Donald	Min	Staff	Male	3	Department of Military Digital Convergence	1965-01-07	donald_65m@ajou.ac.kr	010-5816-9602
+201770766	Ronald	Cho	Professor	Male	2	Department of Digital Media	1992-06-08	ronald_92c@ajou.ac.kr	010-2893-4952
+201570767	David	Ha	Professor	Male	3	Department of Military Digital Convergence	1990-09-25	david_90h@ajou.ac.kr	010-3914-0654
+201670768	Anthony	Jeong	Staff	Male	2	Department of Digital Media	1991-04-14	anthony_91j@ajou.ac.kr	010-4498-7684
+200070769	Jessica	Rho	Staff	Female	2	Department of Digital Media	1975-10-24	jessica_75r@ajou.ac.kr	010-5057-8836
+199870770	Joonseo	Garcia	Staff	Male	2	Department of Digital Media	1973-06-05	joonseo_73g@ajou.ac.kr	010-1444-3884
+199170771	Donna	Kang	Staff	Female	3	Department of Military Digital Convergence	1966-05-01	donna_66k@ajou.ac.kr	010-9345-8932
+201470772	Melissa	Jackson	Professor	Female	2	Department of Digital Media	1989-03-16	melissa_89j@ajou.ac.kr	010-8195-7837
+201570773	Mary	Bottier	Staff	Female	3	Department of Military Digital Convergence	1990-01-10	mary_90b@ajou.ac.kr	010-4383-7842
+200270774	Joshua	Min	Professor	Male	3	Department of Military Digital Convergence	1977-10-16	joshua_77m@ajou.ac.kr	010-2822-9251
+200770775	Rebecca	Kim	Staff	Female	0	Department of Software and Computer Engineering	1982-11-06	rebecca_82k@ajou.ac.kr	010-5158-4767
+199970776	Jia	Anderson	TA	Female	0	Department of Software and Computer Engineering	1974-09-24	jia_74a@ajou.ac.kr	010-7797-8249
+201470777	Joonseo	Hong	Professor	Male	2	Department of Digital Media	1989-03-15	joonseo_89h@ajou.ac.kr	010-8188-2556
+199570778	Ryan	Hernandez	Staff	Male	1	Department of Cyber Security	1970-12-19	ryan_70h@ajou.ac.kr	010-8850-9379
+201070779	Joowon	Brown	Professor	Male	4	Department of Applied Artificial Intelligence	1985-03-22	joowon_85b@ajou.ac.kr	010-9649-1533
+201970780	Jihoo	Thompson	Professor	Male	3	Department of Military Digital Convergence	1994-03-12	jihoo_94t@ajou.ac.kr	010-0148-9544
+199870781	Michelle	Han	Staff	Female	0	Department of Software and Computer Engineering	1973-03-24	michelle_73h@ajou.ac.kr	010-5728-1317
+201170782	Donna	Gonzalez	Staff	Female	4	Department of Applied Artificial Intelligence	1986-05-07	donna_86g@ajou.ac.kr	010-5422-4992
+201770783	Yoonseo	Williams	TA	Female	0	Department of Software and Computer Engineering	1992-05-02	yoonseo_92w@ajou.ac.kr	010-2959-6145
+200070784	Dorothy	Thomas	Staff	Female	1	Department of Cyber Security	1975-03-17	dorothy_75t@ajou.ac.kr	010-2941-2289
+199270785	Sarah	Park	Staff	Female	0	Department of Software and Computer Engineering	1967-08-27	sarah_67p@ajou.ac.kr	010-8470-5973
+199970786	Emily	Taylor	Professor	Female	0	Department of Software and Computer Engineering	1974-02-20	emily_74t@ajou.ac.kr	010-9155-8803
+201370787	Doyoon	White	Professor	Male	3	Department of Military Digital Convergence	1988-02-28	doyoon_88w@ajou.ac.kr	010-2360-2768
+199370788	Seoyeon	Lopez	Professor	Female	2	Department of Digital Media	1968-07-22	seoyeon_68l@ajou.ac.kr	010-3289-3795
+199070789	Joonseo	Perez	Professor	Male	1	Department of Cyber Security	1965-12-21	joonseo_65p@ajou.ac.kr	010-7724-9793
+199670790	Jessica	Park	TA	Female	4	Department of Applied Artificial Intelligence	1971-07-15	jessica_71p@ajou.ac.kr	010-7881-6264
+201470791	Emily	Bacha	TA	Female	2	Department of Digital Media	1989-11-05	emily_89b@ajou.ac.kr	010-3373-4493
+200370792	Mary	Sim	Staff	Female	3	Department of Military Digital Convergence	1978-06-16	mary_78s@ajou.ac.kr	010-4732-2883
+199970793	Dorothy	Kim	TA	Female	0	Department of Software and Computer Engineering	1974-11-09	dorothy_74k@ajou.ac.kr	010-5210-9813
+201070794	Matthew	Thomas	Staff	Male	4	Department of Applied Artificial Intelligence	1985-03-26	matthew_85t@ajou.ac.kr	010-4583-2376
+200470795	Mary	Perez	TA	Female	3	Department of Military Digital Convergence	1979-07-18	mary_79p@ajou.ac.kr	010-7132-8062
+199370796	Kimberly	Dereskeviciute	Professor	Female	4	Department of Applied Artificial Intelligence	1968-05-20	kimberly_68d@ajou.ac.kr	010-6952-7344
+200270797	Edward	Jeong	TA	Male	4	Department of Applied Artificial Intelligence	1977-05-30	edward_77j@ajou.ac.kr	010-8513-5477
+200070798	Michael	Walker	Professor	Male	3	Department of Military Digital Convergence	1975-02-04	michael_75w@ajou.ac.kr	010-3996-9579
+200370799	Jiwoo	Smith	TA	Female	4	Department of Applied Artificial Intelligence	1978-02-02	jiwoo_78s@ajou.ac.kr	010-8215-6511
+201070800	Stephanie	Jeong	Professor	Female	1	Department of Cyber Security	1985-07-09	stephanie_85j@ajou.ac.kr	010-0040-2209
+200770801	Seoyeon	Williams	TA	Female	0	Department of Software and Computer Engineering	1982-12-25	seoyeon_82w@ajou.ac.kr	010-5762-5062
+201970802	Thomas	Heo	Professor	Male	4	Department of Applied Artificial Intelligence	1994-04-28	thomas_94h@ajou.ac.kr	010-4510-5584
+199870803	Linda	Williams	TA	Female	3	Department of Military Digital Convergence	1973-03-10	linda_73w@ajou.ac.kr	010-7724-5709
+201070804	David	Jackson	Staff	Male	2	Department of Digital Media	1985-03-30	david_85j@ajou.ac.kr	010-2722-0666
+201170805	Andrew	Taylor	Professor	Male	4	Department of Applied Artificial Intelligence	1986-02-04	andrew_86t@ajou.ac.kr	010-4302-3305
+199970806	Jihoo	Dereskeviciute	Staff	Male	3	Department of Military Digital Convergence	1974-09-12	jihoo_74d@ajou.ac.kr	010-2489-2305
+200670807	Seoyeon	ClarkLewis	Staff	Female	1	Department of Cyber Security	1981-05-21	seoyeon_81c@ajou.ac.kr	010-5152-0583
+201070808	Dorothy	Moore	Staff	Female	0	Department of Software and Computer Engineering	1985-12-25	dorothy_85m@ajou.ac.kr	010-9135-2652
+200070809	Betty	Johnson	TA	Female	1	Department of Cyber Security	1975-08-05	betty_75j@ajou.ac.kr	010-0362-2806
+199370810	Stephanie	White	TA	Female	1	Department of Cyber Security	1968-03-11	stephanie_68w@ajou.ac.kr	010-8223-5938
+200870811	Hajoon	Nguyen	TA	Male	4	Department of Applied Artificial Intelligence	1983-08-24	hajoon_83n@ajou.ac.kr	010-7941-4029
+199670812	Barbara	Walker	Professor	Female	0	Department of Software and Computer Engineering	1971-05-13	barbara_71w@ajou.ac.kr	010-2054-4126
+199770813	Seohyun	Smith	Staff	Female	3	Department of Military Digital Convergence	1972-09-06	seohyun_72s@ajou.ac.kr	010-1171-8471
+201070814	Barbara	Robinson	TA	Female	3	Department of Military Digital Convergence	1985-02-24	barbara_85r@ajou.ac.kr	010-9070-0184
+200670815	Margaret	Smith	Staff	Female	0	Department of Software and Computer Engineering	1981-05-21	margaret_81s@ajou.ac.kr	010-4413-6891
+200670816	Steven	Lee	TA	Male	0	Department of Software and Computer Engineering	1981-01-22	steven_81l@ajou.ac.kr	010-7751-7775
+200670817	Siu	Song	Staff	Male	4	Department of Applied Artificial Intelligence	1981-01-19	siu_81s@ajou.ac.kr	010-6393-1807
+200870818	Amanda	Gonzalez	Professor	Female	4	Department of Applied Artificial Intelligence	1983-08-20	amanda_83g@ajou.ac.kr	010-0472-1629
+199770819	Rebecca	Sim	Professor	Female	1	Department of Cyber Security	1972-09-15	rebecca_72s@ajou.ac.kr	010-6208-2462
+199470820	Dohyun	Perez	Staff	Male	4	Department of Applied Artificial Intelligence	1969-10-11	dohyun_69p@ajou.ac.kr	010-0766-2140
+199070821	Jiyoo	Jackson	Staff	Female	2	Department of Digital Media	1965-05-23	jiyoo_65j@ajou.ac.kr	010-8407-1417
+201170822	Daniel	Song	Staff	Male	3	Department of Military Digital Convergence	1986-08-25	daniel_86s@ajou.ac.kr	010-7293-6722
+201570823	Susan	Jackson	Professor	Female	1	Department of Cyber Security	1990-01-05	susan_90j@ajou.ac.kr	010-2259-6711
+201470824	Joowon	Heo	Staff	Male	1	Department of Cyber Security	1989-03-14	joowon_89h@ajou.ac.kr	010-7558-4845
+201270825	Susan	Johnson	TA	Female	4	Department of Applied Artificial Intelligence	1987-12-07	susan_87j@ajou.ac.kr	010-5749-6963
+200170826	Edward	Min	Staff	Male	1	Department of Cyber Security	1976-04-16	edward_76m@ajou.ac.kr	010-4032-1520
+199870827	Stephanie	Sim	Professor	Female	4	Department of Applied Artificial Intelligence	1973-07-12	stephanie_73s@ajou.ac.kr	010-0595-5275
+201170828	Haeun	Rochette	Staff	Female	0	Department of Software and Computer Engineering	1986-07-07	haeun_86r@ajou.ac.kr	010-1529-8631
+199570829	Emily	Johnson	TA	Female	1	Department of Cyber Security	1970-06-10	emily_70j@ajou.ac.kr	010-1203-9688
+201170830	Matthew	Thomas	Professor	Male	3	Department of Military Digital Convergence	1986-11-06	matthew_86t@ajou.ac.kr	010-3511-8650
+201970831	Dorothy	Williams	Staff	Female	1	Department of Cyber Security	1994-08-13	dorothy_94w@ajou.ac.kr	010-3738-6725
+199570832	Jiwoo	Anderson	Professor	Female	1	Department of Cyber Security	1970-04-12	jiwoo_70a@ajou.ac.kr	010-2443-4100
+199170833	Chaewon	Jeong	Professor	Female	1	Department of Cyber Security	1966-11-23	chaewon_66j@ajou.ac.kr	010-3181-3554
+199770834	Jeffrey	Min	Professor	Male	4	Department of Applied Artificial Intelligence	1972-05-17	jeffrey_72m@ajou.ac.kr	010-3889-6276
+201470835	Emily	Thompson	Professor	Female	3	Department of Military Digital Convergence	1989-05-30	emily_89t@ajou.ac.kr	010-4949-0861
+199070836	Joowon	Taylor	Professor	Male	4	Department of Applied Artificial Intelligence	1965-07-17	joowon_65t@ajou.ac.kr	010-4183-7147
+201370837	Jimin	Dereskeviciute	Staff	Female	4	Department of Applied Artificial Intelligence	1988-08-07	jimin_88d@ajou.ac.kr	010-2684-1397
+199870838	Brian	Bottier	TA	Male	3	Department of Military Digital Convergence	1973-10-09	brian_73b@ajou.ac.kr	010-7373-3492
+199870839	Barbara	Jeong	Professor	Female	3	Department of Military Digital Convergence	1973-03-14	barbara_73j@ajou.ac.kr	010-5651-2576
+201670840	Kevin	Wilson	Staff	Male	3	Department of Military Digital Convergence	1991-09-26	kevin_91w@ajou.ac.kr	010-3522-2084
+200470841	Richard	Wilson	Professor	Male	0	Department of Software and Computer Engineering	1979-09-03	richard_79w@ajou.ac.kr	010-1228-4334
+200670842	Jessica	Jones	Staff	Female	0	Department of Software and Computer Engineering	1981-03-26	jessica_81j@ajou.ac.kr	010-0342-5399
+201570843	Hayoon	Jeong	Staff	Female	0	Department of Software and Computer Engineering	1990-11-28	hayoon_90j@ajou.ac.kr	010-1478-7810
+201770844	Susan	Song	TA	Female	2	Department of Digital Media	1992-01-11	susan_92s@ajou.ac.kr	010-6260-5345
+201070845	Michelle	Hong	Professor	Female	3	Department of Military Digital Convergence	1985-12-07	michelle_85h@ajou.ac.kr	010-7381-2032
+199370846	Joonwoo	Martinez	TA	Male	0	Department of Software and Computer Engineering	1968-02-26	joonwoo_68m@ajou.ac.kr	010-4384-5777
+200770847	Donald	Song	Professor	Male	0	Department of Software and Computer Engineering	1982-01-23	donald_82s@ajou.ac.kr	010-0407-4603
+200070848	Daniel	Gonzalez	Staff	Male	4	Department of Applied Artificial Intelligence	1975-08-08	daniel_75g@ajou.ac.kr	010-4840-4206
+199270849	Sandra	Han	TA	Female	2	Department of Digital Media	1967-03-17	sandra_67h@ajou.ac.kr	010-1437-1033
+201170850	Sarah	Rochette	TA	Female	4	Department of Applied Artificial Intelligence	1986-08-23	sarah_86r@ajou.ac.kr	010-2240-0300
+201970851	Sharon	Anderson	Professor	Female	0	Department of Software and Computer Engineering	1994-06-29	sharon_94a@ajou.ac.kr	010-4898-3504
+201970852	Seoyoon	Lee	Staff	Female	4	Department of Applied Artificial Intelligence	1994-02-25	seoyoon_94l@ajou.ac.kr	010-0883-3816
+200770853	John	Bottier	TA	Male	3	Department of Military Digital Convergence	1982-10-07	john_82b@ajou.ac.kr	010-9872-3820
+199470854	Jihoo	Kim	Professor	Male	4	Department of Applied Artificial Intelligence	1969-04-21	jihoo_69k@ajou.ac.kr	010-0859-2425
+201370855	Joshua	Ha	TA	Male	3	Department of Military Digital Convergence	1988-06-14	joshua_88h@ajou.ac.kr	010-6995-2390
+199270856	Steven	Jeong	TA	Male	2	Department of Digital Media	1967-10-15	steven_67j@ajou.ac.kr	010-1572-2063
+201470857	Seohyun	Walker	Professor	Female	4	Department of Applied Artificial Intelligence	1989-08-20	seohyun_89w@ajou.ac.kr	010-2987-3495
+199170858	Thomas	Nguyen	Staff	Male	2	Department of Digital Media	1966-12-03	thomas_66n@ajou.ac.kr	010-2064-9963
+199170859	Amanda	Thompson	TA	Female	1	Department of Cyber Security	1966-07-24	amanda_66t@ajou.ac.kr	010-7931-1011
+200070860	Chaewon	Bottier	TA	Female	0	Department of Software and Computer Engineering	1975-07-23	chaewon_75b@ajou.ac.kr	010-9145-8235
+200670861	John	ClarkLewis	Professor	Male	3	Department of Military Digital Convergence	1981-12-16	john_81c@ajou.ac.kr	010-7006-0935
+199970862	Ronald	Choi	Professor	Male	0	Department of Software and Computer Engineering	1974-03-20	ronald_74c@ajou.ac.kr	010-1424-9761
+200770863	James	Sim	Professor	Male	2	Department of Digital Media	1982-09-08	james_82s@ajou.ac.kr	010-6215-6854
+201270864	Susan	Miller	TA	Female	2	Department of Digital Media	1987-03-22	susan_87m@ajou.ac.kr	010-7682-3529
+200870865	Minseo	Bacha	Staff	Female	1	Department of Cyber Security	1983-03-24	minseo_83b@ajou.ac.kr	010-5210-9036
+201170866	Matthew	Rodriguez	TA	Male	1	Department of Cyber Security	1986-07-27	matthew_86r@ajou.ac.kr	010-0656-4950
+199170867	Sarah	Lee	Professor	Female	4	Department of Applied Artificial Intelligence	1966-07-20	sarah_66l@ajou.ac.kr	010-5742-9565
+199470868	Jimin	Walker	TA	Female	2	Department of Digital Media	1969-07-14	jimin_69w@ajou.ac.kr	010-9922-0929
+199770869	Charles	Perez	TA	Male	4	Department of Applied Artificial Intelligence	1972-01-08	charles_72p@ajou.ac.kr	010-3844-8763
+200670870	Doyoon	Park	Staff	Male	0	Department of Software and Computer Engineering	1981-06-07	doyoon_81p@ajou.ac.kr	010-0579-0108
+199770871	Joseph	Thomas	TA	Male	3	Department of Military Digital Convergence	1972-09-04	joseph_72t@ajou.ac.kr	010-7529-4490
+201070872	Dorothy	Martinez	Staff	Female	1	Department of Cyber Security	1985-06-29	dorothy_85m@ajou.ac.kr	010-7270-7937
+200170873	Kimberly	Min	TA	Female	1	Department of Cyber Security	1976-08-27	kimberly_76m@ajou.ac.kr	010-7141-5843
+201070874	Anthony	Sim	Staff	Male	1	Department of Cyber Security	1985-05-30	anthony_85s@ajou.ac.kr	010-5962-9116
+200170875	Jennifer	Jones	Staff	Female	0	Department of Software and Computer Engineering	1976-08-18	jennifer_76j@ajou.ac.kr	010-2582-0649
+200970876	Jeffrey	Perez	Staff	Male	3	Department of Military Digital Convergence	1984-02-13	jeffrey_84p@ajou.ac.kr	010-6516-0388
+200070877	Yejoon	Kim	Professor	Male	3	Department of Military Digital Convergence	1975-08-06	yejoon_75k@ajou.ac.kr	010-9457-0756
+199770878	Seojoon	White	Professor	Male	0	Department of Software and Computer Engineering	1972-01-29	seojoon_72w@ajou.ac.kr	010-2809-6364
+201270879	Steven	Martinez	Staff	Male	1	Department of Cyber Security	1987-07-19	steven_87m@ajou.ac.kr	010-1445-1946
+201670880	Sua	Gonzalez	TA	Female	1	Department of Cyber Security	1991-04-13	sua_91g@ajou.ac.kr	010-6854-1722
+199470881	Sarah	Heo	Staff	Female	3	Department of Military Digital Convergence	1969-08-23	sarah_69h@ajou.ac.kr	010-5481-8421
+199070882	James	Wilson	TA	Male	0	Department of Software and Computer Engineering	1965-04-25	james_65w@ajou.ac.kr	010-1870-3789
+199170883	George	Jeong	Staff	Male	1	Department of Cyber Security	1966-09-26	george_66j@ajou.ac.kr	010-0292-1883
+199970884	Patricia	Taylor	Professor	Female	0	Department of Software and Computer Engineering	1974-01-21	patricia_74t@ajou.ac.kr	010-9677-8348
+200770885	Hajoon	Hernandez	Professor	Male	2	Department of Digital Media	1982-05-24	hajoon_82h@ajou.ac.kr	010-8361-4266
+200070886	Michael	Lopez	Staff	Male	3	Department of Military Digital Convergence	1975-07-03	michael_75l@ajou.ac.kr	010-7586-2201
+201870887	Seohyun	Lopez	Staff	Female	2	Department of Digital Media	1993-10-27	seohyun_93l@ajou.ac.kr	010-0345-1268
+200270888	Donna	Harris	TA	Female	0	Department of Software and Computer Engineering	1977-01-22	donna_77h@ajou.ac.kr	010-1981-8121
+200270889	Laura	Yu	Professor	Female	0	Department of Software and Computer Engineering	1977-09-15	laura_77y@ajou.ac.kr	010-6206-2380
+200970890	Jennifer	Kim	Professor	Female	2	Department of Digital Media	1984-09-22	jennifer_84k@ajou.ac.kr	010-5136-1615
+199670891	Dohyun	Kim	TA	Male	1	Department of Cyber Security	1971-08-24	dohyun_71k@ajou.ac.kr	010-1561-4154
+201070892	Haeun	Rodriguez	Staff	Female	1	Department of Cyber Security	1985-07-30	haeun_85r@ajou.ac.kr	010-4811-2706
+199370893	Ronald	White	Professor	Male	3	Department of Military Digital Convergence	1968-08-30	ronald_68w@ajou.ac.kr	010-3489-4811
+201970894	Chaewon	Park	Staff	Female	1	Department of Cyber Security	1994-10-16	chaewon_94p@ajou.ac.kr	010-3908-4433
+200170895	Matthew	Park	TA	Male	4	Department of Applied Artificial Intelligence	1976-12-10	matthew_76p@ajou.ac.kr	010-4924-4850
+200570896	Ashley	Davis	TA	Female	2	Department of Digital Media	1980-09-20	ashley_80d@ajou.ac.kr	010-5016-6335
+199070897	Elizabeth	Rochette	Staff	Female	3	Department of Military Digital Convergence	1965-03-23	elizabeth_65r@ajou.ac.kr	010-2271-4645
+201170898	Minseo	Lopez	TA	Female	2	Department of Digital Media	1986-06-18	minseo_86l@ajou.ac.kr	010-9068-1884
+200570899	Minseo	Lee	Professor	Female	4	Department of Applied Artificial Intelligence	1980-05-09	minseo_80l@ajou.ac.kr	010-3837-2752
+201270900	Nancy	Rochette	Staff	Female	2	Department of Digital Media	1987-05-28	nancy_87r@ajou.ac.kr	010-1753-1556
+199470901	Karen	Harris	Staff	Female	2	Department of Digital Media	1969-08-07	karen_69h@ajou.ac.kr	010-5133-7520
+201370902	Patricia	Han	Staff	Female	4	Department of Applied Artificial Intelligence	1988-12-08	patricia_88h@ajou.ac.kr	010-5872-0459
+199270903	Donald	Bacha	TA	Male	3	Department of Military Digital Convergence	1967-05-14	donald_67b@ajou.ac.kr	010-8222-0540
+201170904	Ronald	White	TA	Male	4	Department of Applied Artificial Intelligence	1986-07-11	ronald_86w@ajou.ac.kr	010-1682-7775
+201070905	Haeun	Ha	Staff	Female	1	Department of Cyber Security	1985-08-31	haeun_85h@ajou.ac.kr	010-1787-5192
+201170906	Emily	Miller	Professor	Female	2	Department of Digital Media	1986-04-09	emily_86m@ajou.ac.kr	010-8526-6412
+199370907	Yoonseo	Robinson	Staff	Female	2	Department of Digital Media	1968-02-14	yoonseo_68r@ajou.ac.kr	010-8371-7124
+199170908	Dorothy	Perez	Staff	Female	3	Department of Military Digital Convergence	1966-01-12	dorothy_66p@ajou.ac.kr	010-0861-8525
+200870909	Patricia	Gonzalez	Professor	Female	2	Department of Digital Media	1983-11-15	patricia_83g@ajou.ac.kr	010-0806-0379
+199570910	Jimin	Ha	Staff	Female	1	Department of Cyber Security	1970-07-31	jimin_70h@ajou.ac.kr	010-7635-9426
+199870911	Michelle	Jackson	Staff	Female	2	Department of Digital Media	1973-08-07	michelle_73j@ajou.ac.kr	010-4469-0780
+201170912	Emily	Song	Staff	Female	2	Department of Digital Media	1986-10-05	emily_86s@ajou.ac.kr	010-5705-5201
+201770913	Dorothy	Harris	TA	Female	0	Department of Software and Computer Engineering	1992-03-28	dorothy_92h@ajou.ac.kr	010-1226-6344
+200070914	Jason	Han	Professor	Male	0	Department of Software and Computer Engineering	1975-02-20	jason_75h@ajou.ac.kr	010-1335-1011
+201170915	Sarah	Perez	Staff	Female	2	Department of Digital Media	1986-09-13	sarah_86p@ajou.ac.kr	010-4923-4822
+200570916	Seohyun	Hong	TA	Female	0	Department of Software and Computer Engineering	1980-11-26	seohyun_80h@ajou.ac.kr	010-9128-1301
+199370917	Barbara	Kang	Professor	Female	2	Department of Digital Media	1968-07-02	barbara_68k@ajou.ac.kr	010-1662-9187
+201170918	Chaewon	Rochette	TA	Female	0	Department of Software and Computer Engineering	1986-09-09	chaewon_86r@ajou.ac.kr	010-0671-9774
+201570919	Daniel	ClarkLewis	Professor	Male	2	Department of Digital Media	1990-10-07	daniel_90c@ajou.ac.kr	010-2800-8422
+199370920	Mary	Park	Professor	Female	3	Department of Military Digital Convergence	1968-03-08	mary_68p@ajou.ac.kr	010-0305-4781
+201370921	Haeun	Song	Staff	Female	3	Department of Military Digital Convergence	1988-09-21	haeun_88s@ajou.ac.kr	010-6931-1237
+200470922	Donald	ClarkLewis	Staff	Male	1	Department of Cyber Security	1979-12-07	donald_79c@ajou.ac.kr	010-0947-5245
+201570923	Donna	Choi	Staff	Female	1	Department of Cyber Security	1990-09-16	donna_90c@ajou.ac.kr	010-0170-3313
+200970924	Michelle	Rho	TA	Female	0	Department of Software and Computer Engineering	1984-01-21	michelle_84r@ajou.ac.kr	010-4027-5059
+200970925	Thomas	Jackson	TA	Male	2	Department of Digital Media	1984-06-20	thomas_84j@ajou.ac.kr	010-1470-0363
+201870926	Matthew	Jackson	Professor	Male	0	Department of Software and Computer Engineering	1993-12-15	matthew_93j@ajou.ac.kr	010-5365-5786
+201070927	Carol	White	Staff	Female	0	Department of Software and Computer Engineering	1985-04-13	carol_85w@ajou.ac.kr	010-7433-5895
+199570928	James	Hong	TA	Male	4	Department of Applied Artificial Intelligence	1970-05-05	james_70h@ajou.ac.kr	010-1310-8525
+201870929	Joonwoo	Sim	Professor	Male	2	Department of Digital Media	1993-11-27	joonwoo_93s@ajou.ac.kr	010-9871-2658
+199570930	Joshua	Miller	Professor	Male	2	Department of Digital Media	1970-12-09	joshua_70m@ajou.ac.kr	010-7282-5195
+200470931	Matthew	Johnson	TA	Male	4	Department of Applied Artificial Intelligence	1979-09-19	matthew_79j@ajou.ac.kr	010-0296-1971
+200870932	Rebecca	Cho	Professor	Female	0	Department of Software and Computer Engineering	1983-05-08	rebecca_83c@ajou.ac.kr	010-0403-9906
+199270933	Geonwoo	Harris	TA	Male	0	Department of Software and Computer Engineering	1967-05-12	geonwoo_67h@ajou.ac.kr	010-1644-0910
+201370934	John	Hernandez	Staff	Male	0	Department of Software and Computer Engineering	1988-05-02	john_88h@ajou.ac.kr	010-3921-6072
+200970935	Jiwoo	Walker	TA	Female	3	Department of Military Digital Convergence	1984-12-17	jiwoo_84w@ajou.ac.kr	010-4048-9353
+199870936	Karen	Harris	Professor	Female	4	Department of Applied Artificial Intelligence	1973-10-28	karen_73h@ajou.ac.kr	010-5897-3494
+201070937	Jimin	Jackson	Professor	Female	4	Department of Applied Artificial Intelligence	1985-06-10	jimin_85j@ajou.ac.kr	010-6833-3727
+200970938	Joowon	Jackson	Staff	Male	0	Department of Software and Computer Engineering	1984-10-23	joowon_84j@ajou.ac.kr	010-2899-5954
+201570939	Deborah	Jackson	Staff	Female	2	Department of Digital Media	1990-01-05	deborah_90j@ajou.ac.kr	010-9443-8152
+199270940	Rebecca	Brown	Professor	Female	0	Department of Software and Computer Engineering	1967-10-24	rebecca_67b@ajou.ac.kr	010-2652-8738
+200570941	Michael	Perez	TA	Male	4	Department of Applied Artificial Intelligence	1980-10-28	michael_80p@ajou.ac.kr	010-3132-9377
+201370942	Jeffrey	Kim	Staff	Male	2	Department of Digital Media	1988-05-02	jeffrey_88k@ajou.ac.kr	010-5871-5689
+199570943	Jiho	Rho	Staff	Male	0	Department of Software and Computer Engineering	1970-11-03	jiho_70r@ajou.ac.kr	010-9277-3065
+200970944	Paul	Robinson	TA	Male	1	Department of Cyber Security	1984-03-31	paul_84r@ajou.ac.kr	010-4487-8726
+201670945	Ryan	Bottier	Staff	Male	3	Department of Military Digital Convergence	1991-06-15	ryan_91b@ajou.ac.kr	010-9370-3052
+201270946	Jiwoo	Kim	Professor	Female	3	Department of Military Digital Convergence	1987-08-25	jiwoo_87k@ajou.ac.kr	010-0826-4753
+201870947	Kenneth	Davis	Staff	Male	0	Department of Software and Computer Engineering	1993-06-03	kenneth_93d@ajou.ac.kr	010-7211-8504
+200370948	Timothy	Min	TA	Male	2	Department of Digital Media	1978-08-04	timothy_78m@ajou.ac.kr	010-1724-8295
+201770949	Jeffrey	Williams	Professor	Male	1	Department of Cyber Security	1992-11-15	jeffrey_92w@ajou.ac.kr	010-4851-1084
+199470950	Hajoon	Nguyen	Staff	Male	4	Department of Applied Artificial Intelligence	1969-04-02	hajoon_69n@ajou.ac.kr	010-7357-4134
+201770951	Joonseo	Jones	Staff	Male	4	Department of Applied Artificial Intelligence	1992-03-04	joonseo_92j@ajou.ac.kr	010-3628-3159
+199770952	Minseo	Kang	Professor	Female	4	Department of Applied Artificial Intelligence	1972-07-12	minseo_72k@ajou.ac.kr	010-5307-4084
+201670953	Dorothy	Gonzalez	TA	Female	2	Department of Digital Media	1991-11-18	dorothy_91g@ajou.ac.kr	010-1376-0210
+199870954	Yoonseo	Jones	TA	Female	4	Department of Applied Artificial Intelligence	1973-02-24	yoonseo_73j@ajou.ac.kr	010-5905-7770
+201770955	Yoonseo	Perez	Staff	Female	2	Department of Digital Media	1992-06-07	yoonseo_92p@ajou.ac.kr	010-8510-7541
+201370956	Mary	Bottier	TA	Female	3	Department of Military Digital Convergence	1988-08-11	mary_88b@ajou.ac.kr	010-0100-5153
+199270957	Ashley	Jackson	Staff	Female	1	Department of Cyber Security	1967-01-03	ashley_67j@ajou.ac.kr	010-5896-9261
+199370958	Nancy	Bottier	Professor	Female	4	Department of Applied Artificial Intelligence	1968-12-17	nancy_68b@ajou.ac.kr	010-7584-3879
+200870959	Jiwoo	Dereskeviciute	Staff	Female	4	Department of Applied Artificial Intelligence	1983-07-31	jiwoo_83d@ajou.ac.kr	010-3703-4557
+200670960	Daniel	Rodriguez	Staff	Male	4	Department of Applied Artificial Intelligence	1981-06-16	daniel_81r@ajou.ac.kr	010-0430-7421
+200770961	Edward	Harris	Professor	Male	4	Department of Applied Artificial Intelligence	1982-05-18	edward_82h@ajou.ac.kr	010-9883-8521
+199670962	Joowon	Rochette	TA	Male	3	Department of Military Digital Convergence	1971-02-13	joowon_71r@ajou.ac.kr	010-9411-7504
+199870963	Christopher	Jackson	Professor	Male	1	Department of Cyber Security	1973-06-21	christopher_73j@ajou.ac.kr	010-3272-5800
+201570964	Seoyeon	Ha	Staff	Female	0	Department of Software and Computer Engineering	1990-04-04	seoyeon_90h@ajou.ac.kr	010-5409-2250
+200770965	Seohyun	Anderson	TA	Female	4	Department of Applied Artificial Intelligence	1982-06-07	seohyun_82a@ajou.ac.kr	010-1703-1442
+199870966	Mark	Harris	TA	Male	3	Department of Military Digital Convergence	1973-04-06	mark_73h@ajou.ac.kr	010-8263-9712
+199870967	Rebecca	Kim	TA	Female	0	Department of Software and Computer Engineering	1973-11-16	rebecca_73k@ajou.ac.kr	010-7667-8311
+200570968	Carol	Heo	Staff	Female	2	Department of Digital Media	1980-05-24	carol_80h@ajou.ac.kr	010-0686-2268
+199270969	Nancy	Harris	Professor	Female	3	Department of Military Digital Convergence	1967-03-12	nancy_67h@ajou.ac.kr	010-3022-3177
+200970970	Jessica	Lopez	TA	Female	2	Department of Digital Media	1984-10-11	jessica_84l@ajou.ac.kr	010-2763-4234
+201370971	Robert	Nguyen	Staff	Male	2	Department of Digital Media	1988-07-03	robert_88n@ajou.ac.kr	010-9729-1505
+199870972	Nancy	Davis	Professor	Female	0	Department of Software and Computer Engineering	1973-05-30	nancy_73d@ajou.ac.kr	010-1896-1395
+200670973	Kimberly	Song	Staff	Female	0	Department of Software and Computer Engineering	1981-02-19	kimberly_81s@ajou.ac.kr	010-1997-4688
+200970974	Kimberly	Cho	Professor	Female	1	Department of Cyber Security	1984-06-22	kimberly_84c@ajou.ac.kr	010-9959-8228
+201070975	Doyoon	Robinson	Staff	Male	0	Department of Software and Computer Engineering	1985-03-07	doyoon_85r@ajou.ac.kr	010-8856-6384
+200670976	Yoonseo	Choi	Professor	Female	4	Department of Applied Artificial Intelligence	1981-03-05	yoonseo_81c@ajou.ac.kr	010-9722-4394
+199670977	Siu	Dereskeviciute	Professor	Male	3	Department of Military Digital Convergence	1971-06-12	siu_71d@ajou.ac.kr	010-4082-8843
+199270978	Chaewon	Brown	Staff	Female	4	Department of Applied Artificial Intelligence	1967-09-09	chaewon_67b@ajou.ac.kr	010-6507-4246
+200870979	Betty	Bacha	Staff	Female	2	Department of Digital Media	1983-09-21	betty_83b@ajou.ac.kr	010-8931-2567
+200670980	Jiwoo	Wilson	Staff	Female	2	Department of Digital Media	1981-06-01	jiwoo_81w@ajou.ac.kr	010-0094-5762
+200070981	Mark	Perez	Professor	Male	3	Department of Military Digital Convergence	1975-11-05	mark_75p@ajou.ac.kr	010-7094-4027
+199670982	Stephanie	Thomas	Professor	Female	3	Department of Military Digital Convergence	1971-07-03	stephanie_71t@ajou.ac.kr	010-3311-0124
+201870983	Ashley	Hong	Professor	Female	0	Department of Software and Computer Engineering	1993-09-03	ashley_93h@ajou.ac.kr	010-3666-8269
+199970984	Jiyoo	Davis	Staff	Female	1	Department of Cyber Security	1974-02-03	jiyoo_74d@ajou.ac.kr	010-2364-0708
+199170985	Betty	Han	TA	Female	3	Department of Military Digital Convergence	1966-01-29	betty_66h@ajou.ac.kr	010-8148-0200
+200870986	Stephanie	Jones	Staff	Female	1	Department of Cyber Security	1983-06-06	stephanie_83j@ajou.ac.kr	010-6129-6975
+200270987	Siu	Min	TA	Male	2	Department of Digital Media	1977-08-24	siu_77m@ajou.ac.kr	010-4993-7723
+200770988	Geonwoo	Perez	TA	Male	3	Department of Military Digital Convergence	1982-09-24	geonwoo_82p@ajou.ac.kr	010-7117-3143
+200470989	Minjoon	Martinez	Professor	Male	0	Department of Software and Computer Engineering	1979-07-06	minjoon_79m@ajou.ac.kr	010-9533-4503
+199170990	Barbara	Davis	Staff	Female	0	Department of Software and Computer Engineering	1966-10-05	barbara_66d@ajou.ac.kr	010-4393-8398
+199970991	Ashley	Rodriguez	Professor	Female	1	Department of Cyber Security	1974-09-17	ashley_74r@ajou.ac.kr	010-9428-7270
+200170992	Joonwoo	Brown	Staff	Male	4	Department of Applied Artificial Intelligence	1976-12-12	joonwoo_76b@ajou.ac.kr	010-5767-4502
+200770993	Sandra	Rochette	TA	Female	3	Department of Military Digital Convergence	1982-07-21	sandra_82r@ajou.ac.kr	010-2339-5997
+199370994	Michael	Han	Staff	Male	4	Department of Applied Artificial Intelligence	1968-06-04	michael_68h@ajou.ac.kr	010-5920-0763
+201070995	Michelle	Bacha	Professor	Female	3	Department of Military Digital Convergence	1985-05-29	michelle_85b@ajou.ac.kr	010-3887-4378
+199870996	Hajoon	Min	Staff	Male	4	Department of Applied Artificial Intelligence	1973-08-14	hajoon_73m@ajou.ac.kr	010-0958-7474
+199470997	Jason	ClarkLewis	Professor	Male	4	Department of Applied Artificial Intelligence	1969-11-17	jason_69c@ajou.ac.kr	010-6119-0638
+199770998	Ryan	Hall	TA	Male	2	Department of Digital Media	1972-11-19	ryan_72h@ajou.ac.kr	010-2023-7761
+199870999	Jihoo	Harris	Professor	Male	0	Department of Software and Computer Engineering	1973-05-26	jihoo_73h@ajou.ac.kr	010-8245-4148

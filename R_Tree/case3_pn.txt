@@ -1,0 +1,26 @@
+INIT 4 2
+INSERT 0 0 1 1
+INSERT 0 8 1 9
+INSERT 7 2 8 3
+INSERT 2 0 3 1
+INSERT 0 1 1 2
+INSERT 1 2 2 3
+INSERT -1 7 0 8
+INSERT -2 0 -1 1
+INSERT -2 6 -1 7
+INSERT 10 3 11 4
+INSERT 1 11 2 12
+INSERT -2 3 -1 4
+INSERT 2 4 3 5
+INSERT 12 3 13 4
+PRINT
+[Rectangle(-2, 0, 13, 12)]-[Rectangle(-2, 6, 2, 12), Rectangle(-2, 0, 1, 4), Rectangle(1, 0, 3, 5), Rectangle(7, 2, 13, 4)]-[Rectangle_1(0, 8, 1, 9), Rectangle_6(-1, 7, 0, 8), Rectangle_8(-2, 6, -1, 7), Rectangle_10(1, 11, 2, 12), Rectangle_7(-2, 0, -1, 1), Rectangle_0(0, 0, 1, 1), Rectangle_4(0, 1, 1, 2), Rectangle_11(-2, 3, -1, 4), Rectangle_3(2, 0, 3, 1), Rectangle_5(1, 2, 2, 3), Rectangle_12(2, 4, 3, 5), Rectangle_9(10, 3, 11, 4), Rectangle_2(7, 2, 8, 3), Rectangle_13(12, 3, 13, 4)]
+INSERT 14 1 15 2
+INSERT 15 2 16 3
+PRINT
+[Rectangle(-2, 0, 16, 12)]-[Rectangle(-2, 0, 3, 12), Rectangle(7, 1, 16, 4)]-[Rectangle(-2, 6, 2, 12), Rectangle(-2, 0, 1, 4), Rectangle(1, 0, 3, 5), Rectangle(14, 1, 16, 3), Rectangle(7, 2, 13, 4)]-[Rectangle_1(0, 8, 1, 9), Rectangle_6(-1, 7, 0, 8), Rectangle_8(-2, 6, -1, 7), Rectangle_10(1, 11, 2, 12), Rectangle_7(-2, 0, -1, 1), Rectangle_0(0, 0, 1, 1), Rectangle_4(0, 1, 1, 2), Rectangle_11(-2, 3, -1, 4), Rectangle_3(2, 0, 3, 1), Rectangle_5(1, 2, 2, 3), Rectangle_12(2, 4, 3, 5), Rectangle_14(14, 1, 15, 2), Rectangle_15(15, 2, 16, 3), Rectangle_2(7, 2, 8, 3), Rectangle_9(10, 3, 11, 4), Rectangle_13(12, 3, 13, 4)]
+DELETE 15 2 16 3
+DELETED 15
+PRINT
+[Rectangle(-2, 0, 15, 12)]-[Rectangle(-2, 6, 2, 12), Rectangle(-2, 0, 1, 4), Rectangle(1, 0, 3, 5), Rectangle(7, 1, 15, 4)]-[Rectangle_1(0, 8, 1, 9), Rectangle_6(-1, 7, 0, 8), Rectangle_8(-2, 6, -1, 7), Rectangle_10(1, 11, 2, 12), Rectangle_7(-2, 0, -1, 1), Rectangle_0(0, 0, 1, 1), Rectangle_4(0, 1, 1, 2), Rectangle_11(-2, 3, -1, 4), Rectangle_3(2, 0, 3, 1), Rectangle_5(1, 2, 2, 3), Rectangle_12(2, 4, 3, 5), Rectangle_9(10, 3, 11, 4), Rectangle_2(7, 2, 8, 3), Rectangle_13(12, 3, 13, 4), Rectangle_14(14, 1, 15, 2)]
+EXIT
